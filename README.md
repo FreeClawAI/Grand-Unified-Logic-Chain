@@ -1,6 +1,7 @@
 # Grand Unified Logic Chain 4.0 (GULP 4.0)
 
 **——A Unified Theory of Evolution from Absolute Paradox to the Physical Universe**
+by linyou
 
 ---
 

@@ -2,6 +2,7 @@
 
 **——Emergence: The Leap Mechanism from Quantitative Change to Qualitative Change**
 
+linyou(林佑)
 
 ## Abstract
 

@@ -1,274 +1,201 @@
-# Grand Unified Logic Chain 5.0 (GULP 5.0): The Competition of Evolution
+# Grand Unified Logic Chain 7.0 (GULP 7.0): The Emergence of Evolution
 
-
-**——The Competition of Evolution: From the Absolute Paradox to Evolutionary Space Competition**
+**——Emergence: The Leap Mechanism from Quantitative Change to Qualitative Change**
 
 
 ## Abstract
 
 The Grand Unified Logic Chain (GULP) is a transdisciplinary meta-theoretical framework designed to provide a unified conceptual structure and dynamical description for the entire evolutionary process, from cosmic origins to the emergence of consciousness and intelligence.
 
-GULP 5.0 is the fifth major iteration of this system. The core contributions of previous versions are as follows: GULP 1.0 proposed the "Logic Chain" as a universal descriptive unit across systems; GULP 2.0 established the evolutionary framework of "contradiction-driven system upgrades"; GULP 3.0 identified the "Absolute Paradox" as the first driver of evolution and established the Emergence Degree formula; GULP 4.0 established an evolutionary dynamics framework with universal gravitation as the engine and energy conservation and momentum conservation as the skeleton, completing a continuous narrative from the Absolute Paradox to artificial intelligence.
+GULP 7.0 is the seventh major iteration of this system. The core contributions of previous versions are as follows: GULP 1.0 proposed the "Logic Chain" as a universal descriptive unit across systems; GULP 2.0 established the evolutionary testing framework centered on Zero-Bug Degree and the Emergence Degree formula; GULP 3.0 identified the "Absolute Paradox" as the first driver of evolution; GULP 4.0 established evolutionary dynamics with universal gravitation as the engine and energy conservation and momentum conservation as the skeleton; GULP 5.0 established the complete theory of evolutionary space competition with finite light speed and the Pauli Exclusion Principle as the dual physical foundations; GULP 6.0 established the complete theory of evolutionary selection with the four criteria of efficiency, resilience, compatibility, and first-mover advantage.
 
-GULP 4.0 explained how structures accumulate under the protection of conservation laws. But it left one question unresolved: structural accumulation occurs within finite space-time. Energy can flow endlessly, and conservation laws guarantee a stable skeleton, but space is finite. Accumulated structures occupy space. New structures continuously emerge while old structures remain. What happens when available space is filled?
+GULP 4.0 answered how structures accumulate. GULP 5.0 answered why accumulated structures must inevitably compete. GULP 6.0 answered what determines the outcome of competition. GULP 7.0 answers the final question: **How do the best units selected by competition achieve a leap from quantitative change to qualitative change through large-scale coordination?**
 
-The core insight of GULP 5.0 is this: **Energy conservation and momentum conservation promise a perpetual trend of structural accumulation, but the finite speed of light limits the propagation speed of structural expansion. The tension between the two—accumulation speed can accelerate indefinitely, yet expansion speed is locked by the speed of light—is the physical root of evolutionary space competition.** Driven by this tension, evolution is not only the accumulation of structures, but also a continuous process in which structures compete for the right to exist within finite space.
+The core insight of GULP 7.0 is this: **Emergence is not mysterious holism, but the inevitable result of the best units selected by competition acting in coordination at a sufficiently large scale under the guarantee of Zero-Bug Degree.** A single hydrogen atom cannot undergo fusion, but enough hydrogen atoms at sufficiently high temperature and pressure in a stellar core will inevitably give rise to the capacity for nuclear fusion. A single neuron has no consciousness, but tens of billions of neurons connected in a specific structure will inevitably give rise to thought. A single person cannot form a civilization, but the connection of billions of people through Logic Chains will inevitably produce language, institutions, and technology. The emergence of every level is the result of the best units of that level acting in coordination at scale under the guarantee of Zero-Bug Degree. When super-large-scale best emergent units gather together, they will协同完成 an even higher level of perfect emergence.
 
-The core breakthrough of this iteration lies in: **establishing the principle of invariant light speed and the Pauli Exclusion Principle as the dual physical foundations of evolutionary space competition.** Finite light speed creates causal horizons and evolutionary asynchrony. The Pauli Principle defines the exclusivity of spatial occupation. Together, they make the collision of asynchronous accumulation fronts in finite space a physical inevitability. Competitive phase transitions, dissipative structures, and energy flow competition constitute the dynamical mechanisms of this collision.
+GULP 7.0 is not a negation of the previous six versions, but their completion. Accumulation is the constructive face of evolution, competition is the eliminative face, selection is the directional face, and emergence is the leap face. Together, the four constitute the complete evolutionary picture.
 
-GULP 5.0 is not a negation of GULP 4.0, but a deepening of it. 4.0 described one half of evolution—how structures accumulate. 5.0 describes the other half—how accumulated structures compete with each other for the right to continue existing within finite space. Together, they form the complete evolutionary picture.
 
+## Preface: From Quantitative Change to Qualitative Change
 
-## Preface: From Accumulation to Competition
+When GULP 6.0 was completed, the evolutionary trilogy appeared to be whole.
 
-When GULP 4.0 was completed, it looked like a finished building.
+GULP 4.0 answered how structures accumulate under the protection of conservation laws. GULP 5.0 answered why accumulated structures must inevitably compete in finite space. GULP 6.0 answered what determines the outcome of competition—the four criteria of efficiency, resilience, compatibility, and first-mover advantage select the winners in competition.
 
-The Absolute Paradox provided the first driving force for evolution. Noether's Theorem provided the conservation skeleton—energy never vanishes, structures never randomly disintegrate. Universal gravitation is the engine of structure, and energy conservation and momentum conservation are the stable skeleton of structural accumulation. Paradox Gradient drives systems from steady state toward criticality. Logic Phase Transition is the mechanism of hierarchical leap. Zero-Bug Degree is the criterion for continued existence. The Emergence Degree formula provides a framework for quantifying emergence. The Evolution Curve provides a tool for prediction.
+But in the real universe, evolution does not stop there. The best units selected by competition do not exist in isolation. They gather together, forming super-large-scale groups. When the scale exceeds a certain critical value, the large-scale coordination among these best units produces entirely new functions—functions that no single best unit possesses on its own. A single hydrogen atom cannot undergo fusion, but enough hydrogen atoms at sufficiently high temperature and pressure in a stellar core will inevitably give rise to nuclear fusion. A single neuron has no consciousness, but tens of billions of neurons connected in a specific structure will inevitably give rise to thought. A single person cannot form a civilization, but the connection of billions of people through Logic Chains will inevitably produce language, institutions, and technology.
 
-From nebulae to stars, from stars to life, from life to consciousness, from consciousness to civilization, from civilization to artificial intelligence—the continuous narrative of evolutionary dynamics was told in full.
+This is emergence—the leap mechanism of evolution from quantitative change to qualitative change.
 
-But when GULP 4.0 attempted to derive economics, it encountered an insurmountable obstacle. Economic systems involve multiple independently evolving entities competing in the same space. 4.0's language could describe internal contradiction-driven leaps within a single system, but it could not describe the collision, elimination, and coexistence of multiple systems within the same evolutionary space.
+GULP 7.0 seeks to answer precisely this question: **How do the best units selected by competition achieve a leap from quantitative change to qualitative change through large-scale coordination?**
 
-This was not an error in construction. It was the intrinsic boundary of the system itself, exposed during its own evolution. 4.0 described how structures accumulate under the protection of conservation laws. But structural accumulation occurs within finite space-time. Accumulated structures occupy space. When available space is filled, new structures cannot continue to accumulate without colliding with old ones.
 
-This collision is not a flaw of human nature, not a failure of institutions, not a historical accident. It is a physical necessity.
+## Part One: The Achievements and Boundaries of the Previous Six Versions
 
-GULP 5.0 was born precisely to address this fundamental problem left by 4.0.
+### 1. GULP 4.0—The Accumulation of Evolution
 
+GULP 4.0 established the complete framework of evolutionary dynamics: universal gravitation is the engine of structure, and energy conservation and momentum conservation are the stable skeleton of structural accumulation. Nebulae gather under gravity, stars ignite, energy flows are transmitted across levels, and structures are enriched layer upon layer. From nebulae to stars, from stars to life, from life to consciousness—the continuous narrative of evolutionary dynamics was told in full.
 
-## Part One: The Achievements and Boundaries of GULP 4.0
+4.0 answered: How do structures accumulate under the protection of conservation laws?
 
-### 1. The Core Framework of 4.0
+### 2. GULP 5.0—The Competition of Evolution
 
-GULP 4.0 established the following core propositions (detailed derivations can be found in the original GULP 4.0 text):
+GULP 5.0 discovered the boundary of 4.0: structural accumulation occurs within finite space-time, and accumulated structures occupy space. When available space is filled, new structures cannot continue to accumulate without colliding with old ones. Finite light speed causes evolutionary asynchrony, and the Pauli Principle defines the exclusivity of spatial occupation. Together, the two make evolutionary space competition a physical inevitability. Competitive phase transitions and dissipative structures constitute the micro-dynamics of competition.
 
-**The First Push**: The Absolute Paradox. Nothingness cannot maintain itself. The very act of referring to nothingness is itself an existence. The paradox forcibly breaks nothingness, and evolution begins.
+5.0 answered: Why must accumulated structures compete in finite space?
 
-**The Physical Foundations of Evolutionary Dynamics**: Universal gravitation is the engine of structure—it drives diffuse matter to aggregate, converts gravitational potential energy into thermal energy, ignites stars, and their continuous radiation drives subsequent evolution. Energy conservation and momentum conservation are the stable skeleton of structural accumulation—energy does not vanish, structures do not randomly disintegrate, and continuously injected energy is forcibly distributed, transformed, and stored within the conservation law framework, enriching structures layer upon layer. Noether's Theorem reveals the common root of these two conservation laws.
+### 3. GULP 6.0—The Selection of Evolution
 
-**Dynamics**: Paradox Gradient is the speed regulator of evolution. A Bug is the crystallization of evolutionary fuel, a singularity about to detonate a dimensional leap.
+GULP 6.0 discovered the boundary of 5.0: What determines the outcome of competition? It is not random collision. The efficiency criterion—structures with higher energy conversion efficiency prevail. The resilience criterion—structures with higher Zero-Bug Degree prevail under external冲击. The compatibility criterion—systems with better structural compatibility are more likely to achieve fusion. The first-mover criterion—structures that complete accumulation first gain spatial advantage. Together, the four criteria determine the directionality of competition.
 
-**Basic Structure**: The Logic Chain is the causal connection of evolution. The output of the upper Logic Chain becomes the driving force of the lower Logic Chain.
+6.0 answered: What determines the outcome of competition?
 
-**Steady State Criterion**: Zero-Bug Degree is the criterion for the continued existence of a system, and the sole underlying standard of the GULP theoretical system. Dynamic stability, not static perfection.
+### 4. The Boundary of 6.0—Unresolved Questions
 
-**Leap Mechanism**: Logic Phase Transition. When Paradox Gradient breaks through the critical value, the old structure reorganizes, and a new level emerges.
+GULP 6.0 described how competition selects winners. But it did not answer: After these winners are selected, what happens next?
 
-**Generation of New Functions**: Emergence Degree = Hierarchical Dimension × Zero-Bug Degree × Unit Self-Emergence Degree × Unit Scale × Coefficient.
+In the real universe, the best units selected by competition do not stay where they are. Hydrogen atoms are the best units in gravitational aggregation competition—massive enough, numerous enough, occupying advantageous positions in the gravitational field. Countless hydrogen atoms gather together, reaching critical mass and temperature, and nuclear fusion emerges—a star ignites. Neurons are the best units in ecological niche competition—capable of efficiently transmitting and processing information within organisms. Hundreds of billions of neurons connect together, reaching critical scale, and consciousness emerges—a brain awakens. Humans are the best units in civilizational competition—possessing language ability, tool-use ability, and social cooperation ability. Billions of humans connect together, reaching critical scale, and civilization emerges—language, institutions, technology.
 
-**Evolution Curve**: Morphological continuity does not break without cause. Traceable continuous change is the criterion for the integrity of the evolutionary chain.
+The emergence of every level is not the simple addition of the best units of that level. Emergence is the birth of new functions—nuclear fusion is not the simple collection of hydrogen atoms, consciousness is not the simple collection of neurons, civilization is not the simple collection of humans. It is the result of the best units selected by competition, acting in coordination at scale under the guarantee of Zero-Bug Degree.
 
-### 2. The Boundary of 4.0—Unresolved Questions
+GULP 6.0 described how competition eliminates the weak. GULP 7.0 describes how the strong selected by competition achieve a leap from quantitative change to qualitative change through large-scale coordination.
 
-The framework of GULP 4.0 is complete, but it describes a picture of evolution "without competition." In 4.0's narrative, a nebula gathers under gravity, a star ignites, planets evolve, life emerges, consciousness awakens, civilization unfolds—these are all internal evolutions of single systems or one-way transmission processes from upper levels to lower levels.
 
-But evolution in the real universe does not proceed in such solitude. Around every nebula, there are other nebulae. Around every protostar core, vast amounts of unaccreted matter compete for space in the gravitational field. In every ecosystem, countless species compete for the same energy flow. Around every civilization, other civilizations compete for the same resources and strategic space.
+## Part Two: The Physical Conditions for Emergence
 
-GULP 4.0 did not describe this multi-system competition. Its conceptual tools were all designed for the internal evolution of a single system. When two systems meet in the same space, when two accumulation fronts collide, 4.0 has no language to describe what happens next.
+### 1. The Definition of Emergence
 
-4.0 described one half of evolution—accumulation. 5.0 must describe the other half—competition.
+Emergence is the inevitable process by which a system produces new functions—functions that no single unit possesses on its own—when a large number of best units are connected through Logic Chains and reach a certain scale.
 
+Emergence is not mysterious holism. It is a leap that inevitably occurs under specific physical conditions. A single hydrogen atom cannot undergo fusion, but enough hydrogen atoms at sufficiently high temperature and pressure will inevitably give rise to nuclear fusion. A single neuron has no consciousness, but tens of billions of neurons connected in a specific structure will inevitably give rise to thought. A single ant cannot build an anthill, but thousands of ants coordinated through pheromone networks will inevitably give rise to complex collective intelligence.
 
-## Part Two: The Physical Foundations of GULP 5.0
+The occurrence of emergence requires four conditions to be satisfied simultaneously: Hierarchical Dimension, Zero-Bug Degree, Unit Self-Emergence Degree, and Unit Scale.
 
-### 1. Finite Light Speed—Causal Horizons and Evolutionary Asynchrony
+### 2. Hierarchical Dimension
 
-The invariance of light speed is the core of Special Relativity. No information or causal influence can propagate faster than light. This is not a technological limitation, but a hard constraint of space-time structure itself.
+Hierarchical Dimension is the complexity level of the system's organization. The higher the level, the greater the degree of differentiation and integration of the internal Logic Chains of the system. Hydrogen atoms must be in the high-temperature, high-pressure environment of a stellar core for fusion to emerge—an isolated hydrogen atom does not possess this hierarchical dimension. Neurons must be in the highly organized structure of the cerebral cortex for consciousness to emerge—neurons in a petri dish do not possess this hierarchical dimension. Hierarchical Dimension is the structural foundation of emergence—without sufficient organizational complexity, emergence cannot occur.
 
-Finite light speed defines causal horizons. For any point in space, at any moment, there exists a sphere centered on that point with radius equal to the speed of light multiplied by time. Events within the sphere can have causal connection with the point. Events outside the sphere are causally disconnected from the point—even if the event has occurred, the point cannot know it.
+The elevation of Hierarchical Dimension is itself the result of competition. In a stellar core, only those hydrogen atoms that are恰好 in the high-temperature, high-pressure region can participate in fusion—these hydrogen atoms are the winners in gravitational space competition. In the cerebral cortex, only those neurons that successfully establish synaptic connections and participate in information processing can participate in the emergence of consciousness—these neurons are the winners in neural development competition. Competition selects the best units, and the best units reorganize at a higher Hierarchical Dimension, giving rise to new functions.
 
-This means: in any sufficiently large space, different regions must inevitably be at different evolutionary stages due to the delay in information transmission. They independently carry out structural accumulation based on local physical conditions. They each occupy local space. They do not know of each other's existence. This is the physical root of evolutionary asynchrony.
+### 3. Zero-Bug Degree
 
-When two independently evolving regions—each having completed structural accumulation locally—finally have their causal horizons cover each other, they discover that the other has already occupied space. And the space where they meet is the same space. Collision is inevitable.
+Zero-Bug Degree is the ability of a system to maintain internal consistency and self-coherence amidst change. This is the necessary precondition for emergence—if the system cannot maintain structural continuity, emergence cannot occur.
 
-If light speed were infinite, all regions could know each other's state in real time and could coordinate spatial allocation early in structural accumulation. Collision would not occur. It is precisely in a universe with finite light speed that evolution is local, asynchronous, and first-come-first-served. This is not a moral problem, not an institutional failure—it is physics.
+A star whose gravitational collapse runs out of control before nuclear fusion ignites will not emerge as a stable star—its Zero-Bug Degree is breached. A brain whose neuronal connections collapse during development will not emerge with normal consciousness—its Zero-Bug Degree is breached. A civilization whose institutions disintegrate during formation will not emerge with sustained social order—its Zero-Bug Degree is breached.
 
-### 2. Light Speed and Stars—The Scale of Spatial Compromise
+Zero-Bug Degree is not static perfection, but dynamic stability. A stellar core maintains the balance between gravity and radiation pressure through a negative feedback mechanism—if the core overheats, it expands and cools; if it overcools, it contracts and heats up. The brain maintains the stability of its information processing network through neural plasticity—synapses strengthen useful connections and weaken useless ones. Civilization maintains the continuity of social order through institutional resilience—laws adapt to change, and culture包容 differences.
 
-Light speed not only causes evolutionary asynchrony, it also directly determines the physical scale boundaries of structures themselves.
+The best units selected by competition are precisely those with the highest Zero-Bug Degree. Their ability to maintain their own integrity amidst perturbations is the strongest. The occurrence of emergence requires these high-Zero-Bug-Degree units to continue maintaining Zero-Bug Degree during large-scale coordination—the structure must not collapse due to scale expansion.
 
-The size of a star is the equilibrium reached between gravity and radiation pressure under the constraint of light speed. Gravity gathers matter, nuclear fusion produces radiation, and radiation propagates outward at light speed. If light speed were faster, radiation would reach outer layers sooner, preventing more matter from being drawn in—stars would be smaller. If light speed were slower, gravity could draw in more matter—stars could be larger, but more unstable.
+### 4. Unit Self-Emergence Degree
 
-The Eddington Limit gives the maximum luminosity a star can sustain. In the formula for the Eddington Limit, light speed appears in the denominator. The larger the speed of light, the higher the limit. The smaller the speed of light, the lower the limit—stars are more easily destroyed by the light they themselves produce.
+Unit Self-Emergence Degree is the emergent capacity exhibited by the smallest unit participating in emergence within the system's evolution. It is determined by the operational results of the unit's own internal multi-level structure.
 
-The size of a star is the first verdict of space competition written in the sky by light speed. Around a protostar core, matter competes for space in the gravitational field. Some enters the core and participates in fusion, some is blown away by radiation pressure, some remains in the periphery and forms planets. The arbiter of this competition is light speed—gravity propagates at light speed, and radiation also propagates at light speed. Two forces at the same ultimate speed compete for the归属 of matter in the same region of space.
+The Unit Self-Emergence Degree of a single hydrogen atom is determined by its quantum state structure—it can participate in nuclear fusion under specific conditions. The Unit Self-Emergence Degree of a single neuron is determined by its electrophysiological properties—it can generate action potentials, release neurotransmitters, and establish synaptic connections with other neurons. The Unit Self-Emergence Degree of a single human is determined by their cognitive and social abilities—they can use language, make tools, and participate in cooperation.
 
-### 3. Pauli Exclusion—The Quantum Foundation of Spatial Occupation
+Unit Self-Emergence Degree does not arise from nothing. It is the result of emergence at the previous level. The Unit Self-Emergence Degree of a hydrogen atom comes from the coordination of the atomic nucleus and electrons—this is the result of emergence at a lower level. The Unit Self-Emergence Degree of a neuron comes from the coordination of ion channels, the cytoskeleton, and gene expression—this is the result of emergence at a lower level. The Unit Self-Emergence Degree of a human comes from the emergence of consciousness in the cerebral cortex—this is the result of emergence at a lower level. The Unit Self-Emergence Degree of every level is the fruit of emergence at the previous level.
 
-Pauli Exclusion Principle: Two identical fermions cannot occupy the same quantum state. Once a quantum state is occupied, another particle cannot enter.
+### 5. Unit Scale
 
-This is not a "force." It is an existential exclusion rule—simply because one state is already occupied, another state cannot be occupied. This is the deepest expression of "existence is exclusion" in Quantum Mechanics.
+Unit Scale is the total number of smallest units possessing Zero-Bug Degree that participate in evolution. Scale is the threshold of emergence—a small number of units cannot produce emergence; a sufficiently large scale is needed to trigger the leap from quantitative change to qualitative change.
 
-When matter is compressed to extreme densities, the macroscopic consequences of the Pauli Principle become impossible to ignore. In a white dwarf, electron degeneracy pressure resists gravitational collapse. In a neutron star, neutron degeneracy pressure takes over from electron degeneracy pressure. But degeneracy pressure has a limit—beyond the limit, even neutron degeneracy pressure cannot resist gravity, and space-time itself undergoes a Logic Phase Transition, giving birth to a black hole.
+A small number of hydrogen atoms cannot produce nuclear fusion—a stellar core needs a sufficiently large mass to reach the temperature and pressure required for fusion. A small number of neurons cannot produce consciousness—the cerebral cortex needs hundreds of billions of neurons for self-awareness to emerge. A small number of humans cannot form a civilization—the cooperation of billions of people is needed to produce language, institutions, and technology.
 
-The Pauli Principle gives "spatial occupation" a precise physical definition: once a spatial position is occupied, it is permanently closed to occupants of the same type. This exclusivity is absolute and non-negotiable. It has been in effect since the very first instant of the universe's birth.
+Scale is not a case of "the bigger, the better." If the scale is too small, the critical point for emergence cannot be reached. If the scale is too large, Zero-Bug Degree may not be maintained—the system collapses due to excessive scale. There exists an optimal scale range within which Zero-Bug Degree can be maintained and emergence can occur.
 
-Evolutionary space competition, at its deepest level, is the macroscopic emergence of the Pauli Exclusion Principle. When one structure occupies an evolutionary space position, other structures cannot simultaneously occupy it. This requires no additional "competition mechanism" to explain it—it has湧ed up all the way from the quantum level.
 
-### 4. Space-Time Geometry—Space Competition in General Relativity
+## Part Three: The Emergence Degree Formula
 
-General Relativity reveals that space-time is not a passive stage for the evolution of matter, but a dynamic entity that co-evolves with matter. When multiple massive bodies coexist, each body's energy-momentum distribution tries to curve space-time. The field equations are nonlinear—space-time curvature is not a simple superposition of multiple source curvatures. The final space-time geometry is a dynamic equilibrium jointly determined by all matter distributions through the field equations.
+### 1. The Formula
 
-When two massive bodies orbit each other, gravitational waves are continuously excited, and their orbits gradually decay until they ultimately merge. In the final stage of merger, the two bodies—each having already occupied the surrounding space-time—must merge into one within the same space-time region. This is evolutionary space competition at the gravitational level.
-
-Black holes are the endgame of this competition. Once an event horizon forms, the black hole causally withdraws from the external universe's evolution. But Hawking radiation means that even a black hole cannot permanently occupy space.
-
-### 5. Competitive Phase Transitions and Dissipative Structures
-
-Competitive phase transitions describe the dynamics in which multiple ordered structures grow and collide within the same disordered substrate. The growth of ice crystals in supercooled water is the most intuitive example—multiple ice crystal nuclei each grow outward, and when growth fronts meet, compatible structures merge while incompatible ones form permanent interfaces.
-
-The Logic Phase Transition described by GULP 4.0 is a leap driven by a single system's internal dynamics—non-competitive phase transition. GULP 5.0 introduces competitive phase transitions—the phase transition process when multiple systems compete for limited resources in the same evolutionary space.
-
-Dissipative structures maintain their own order by continuously consuming an external energy flow. When multiple dissipative structures compete for the same energy flow, the structure that can dissipate energy faster occupies a larger share. The Maximum Entropy Production Principle suggests that non-equilibrium systems tend to choose the path with the highest entropy production rate during evolution.
-
-The Pauli Principle handles quantum state occupation, competitive phase transitions handle spatial occupation, and dissipative structures handle energy flow competition. Together, they constitute the complete physical picture of evolutionary space competition.
-
-
-## Part Three: Core Concepts of GULP 5.0
-
-### 1. Evolutionary Space Competition
-
-**Definition**: Evolutionary Space Competition is the inevitable process in which two or more structures, within the same finite evolutionary space, compete for space and energy flow access rights due to their respective structural accumulation needs.
-
-**Physical Roots**: Energy conservation promises a perpetual trend of structural accumulation; finite light speed causes evolutionary asynchrony and causal horizons; the Pauli Exclusion Principle defines the exclusivity of spatial occupation; asynchronous accumulation fronts inevitably collide in finite space.
-
-**Hierarchical Emergence**: Quantum level—Pauli Exclusion, fermions exclusively occupy quantum states. Protostar level—gravity and radiation pressure compete for matter归属, stellar size is the first spatial competition verdict written by light speed. Stellar level—degeneracy pressure versus gravity, white dwarfs and neutron stars are macroscopic fortresses of the Pauli Principle. Galactic level—galaxy mergers, two evolutionary spaces compete最终走向 merger or acquisition. Life level—ecological niche competition, the Competitive Exclusion Principle is the emergence of the Pauli Principle at the biological level. Civilization level—competition for territory, resources, and cognitive space. Intelligence level—competition among different attention heads in representational space within attention mechanisms.
-
-### 2. Expansion of Paradox Gradient
-
-GULP 5.0 expands Paradox Gradient into the sum of two parts:
-
-**Total Paradox Gradient = Internal Paradox Gradient + Spatial Competition Paradox Gradient**
-
-Internal Paradox Gradient is the system's internal contradictions—gravity versus radiation pressure, heredity versus mutation, stability versus change. Already fully described in 4.0.
-
-Spatial Competition Paradox Gradient is new to 5.0—the intensity of conflict among multiple structures in finite space. It depends on the degree of spatial overlap, the degree of structural incompatibility, the intensity of energy flow competition, and misjudgment caused by information delay.
-
-When the total Paradox Gradient exceeds the system's Zero-Bug Degree, the system undergoes a Logic Phase Transition. The outcome of the phase transition is no longer singular.
-
-### 3. Expansion of Zero-Bug Degree
-
-GULP 5.0 expands Zero-Bug Degree into dual resilience:
-
-**Internal Zero-Bug Degree**: The ability to cope with internal Paradox Gradient. Already described in 4.0—negative feedback self-regulation, homeostasis, institutional resilience.
-
-**External Zero-Bug Degree**: The ability to cope with spatial competition Paradox Gradient. New dimensions—structural compatibility, spatial redundancy, energy flow diversity, information acquisition speed.
-
-When any term approaches zero, the total Zero-Bug Degree approaches zero—even if the internal structure is perfect, external shocks alone can destroy the system.
-
-### 4. Expansion of Logic Phase Transition—Five-Outcome Collision
-
-GULP 5.0's Logic Phase Transition has multiple outcomes:
-
-**Fusion Phase Transition**: Two structures are compatible; boundaries disappear; they merge into a larger structure. Galaxy mergers are the paradigm.
-
-**Elimination Phase Transition**: One side's Zero-Bug Degree is lower than the spatial competition Paradox Gradient冲击 from the other side; its structure disintegrates, releasing space to the winner.
-
-**Differentiation Phase Transition**: Neither side can eliminate the other; the boundary solidifies; each continues evolving in different spaces. The interface of incompatible ice crystals is the physical paradigm.
-
-**Destruction Phase Transition**: Both sides' Paradox Gradients simultaneously exceed their respective Zero-Bug Degrees; both disintegrate simultaneously.
-
-**Leap Phase Transition**: The pressure of spatial competition drives one or both sides to leap to a higher level. The Cambrian Explosion may have been a leap driven by ecological niche space competition.
-
-### 5. Expansion of the Emergence Degree Formula
-
-GULP 5.0's Emergence Degree formula adds the Spatial Competition Pressure Coefficient:
+GULP proposes Emergence Degree as an index to quantify the self-organization, adaptation, and innovation capacity of a system. GULP 6.0 already gave the complete formula including the Spatial Competition Pressure Coefficient. GULP 7.0 clarifies on this basis that every parameter in the Emergence Degree formula is the result of competitive selection, and emergence itself is the inevitable product of the best units selected by competition acting in coordination at scale under the guarantee of Zero-Bug Degree.
 
 **Emergence Degree = Hierarchical Dimension × Zero-Bug Degree × Unit Self-Emergence Degree × Unit Scale × Spatial Competition Pressure Coefficient × Coefficient**
 
-The Spatial Competition Pressure Coefficient reflects the degree of saturation of the evolutionary space and the catalytic or inhibitory effect of conflict intensity on emergence. When space is abundant, the coefficient is close to 1. When space is saturated and competition is moderate, the coefficient is greater than 1 (competition catalyzes emergence). When competition pressure exceeds the system's tolerance, the coefficient drops sharply (competition destroys emergence). Spatial competition is both a catalyst for emergence and a killer of emergence.
+### 2. The Competitive Origin of Each Parameter
 
-### 6. Expansion of Evolution Space and Evolution Time
+**Hierarchical Dimension** is the organizational complexity selected by competition. Only the winners in competition can enter a higher Hierarchical Dimension—the high-temperature, high-pressure region of a stellar core selects hydrogen atoms that can participate in fusion, and the neural development competition in the cerebral cortex selects neurons that can establish effective connections.
 
-GULP 5.0's Evolution Space gains new attributes: finiteness, exclusivity, saturability, and competitiveness.
+**Zero-Bug Degree** is the dynamic stability capacity selected by competition. Only units with the highest Zero-Bug Degree can maintain the integrity of their own structure—a stellar core maintains balance through negative feedback, and neurons maintain connections through synaptic plasticity.
 
-GULP 5.0's Evolution Time gains new attributes: delay, asynchrony, and cumulativeness.
+**Unit Self-Emergence Degree** is the emergent fruit selected by competition at the previous level. The quantum state structure of a hydrogen atom is the fruit of emergence at the atomic level, the electrophysiological properties of a neuron are the fruit of emergence at the cellular level, and the cognitive abilities of a human are the fruit of emergence at the level of consciousness.
 
-### 7. From Evolution Curve to Evolutionary Competition Network
+**Unit Scale** is the aggregation quantity of the best units selected by competition. Competition eliminates the weak and leaves the strong. The number of the strong determines whether emergence can occur—too few cannot trigger the leap, and too many may cause Zero-Bug Degree to collapse.
 
-GULP 5.0 expands the Evolution Curve into the Evolutionary Competition Network—a network structure in which the evolution curves of multiple systems interweave, collide, bifurcate, and merge in space. Nodes are moments of Logic Phase Transition, edges are collision fronts of incompatible structures, bifurcations are independent evolutionary paths after differentiation phase transitions, mergers are two nodes merging into one, and terminations are evolutionary paths cut short by elimination or destruction phase transitions.
+**Spatial Competition Pressure Coefficient** is the catalytic or inhibitory effect of the competitive environment on emergence. Moderate competitive pressure accelerates emergence; excessive competitive pressure destroys emergence. Competition selects the best units, but competition itself must also remain within a moderate range for emergence to occur.
 
 
-## Part Four: The Hierarchical Unfolding of Evolutionary Space Competition
+## Part Four: The Hierarchical Unfolding of Emergence
 
-### 1. Protostar Level—The First Space Competition
+### 1. Stellar Core—The Emergence of Nuclear Fusion
 
-Around a protostar core, vast amounts of nebular matter compete for space in the same gravitational field. Gravity tries to pull all matter into the core; radiation pressure tries to blow all matter away. Both propagate at light speed. This is the first recorded evolutionary space competition in the universe. Its arbiter is light speed.
+Gravitational space competition selects the best units—those hydrogen atoms that are恰好 in the high-temperature, high-pressure region of the nebular core. These hydrogen atoms have the highest Hierarchical Dimension—they are at the deepest point of the gravitational potential well, with the highest temperature and pressure. They have the highest Zero-Bug Degree—their ability to maintain their quantum state structure under extreme conditions is the strongest. When enough hydrogen atoms gather in the core, reaching critical mass and temperature, nuclear fusion emerges.
 
-The outcome of the competition: some matter enters the core and participates in fusion, some is blown away by radiation pressure, and some remains in the periphery and forms planets. The size of a star is the final boundary of this competition.
+Nuclear fusion is not the simple collection of hydrogen atoms. It is the coordinated quantum tunneling of a large number of hydrogen atoms under extreme conditions—a single hydrogen atom cannot penetrate the Coulomb barrier, but enough hydrogen atoms at sufficiently high temperature and pressure协同完成 fusion through the quantum tunneling effect. This is a perfect example of emergence: the best units selected by competition, acting in coordination at scale under the guarantee of Zero-Bug Degree, produce an entirely new function.
 
-### 2. Stellar Level—The Fortress of the Pauli Principle
+### 2. Cerebral Cortex—The Emergence of Consciousness
 
-After the nuclear fusion fuel in a star's core is exhausted, gravity gains the upper hand. For low- and medium-mass stars, electron degeneracy pressure halts collapse, and a white dwarf forms. For massive stars, neutron degeneracy pressure takes over the resistance, and a neutron star forms. If the mass is even greater, even neutron degeneracy pressure cannot resist, and space-time itself undergoes a Logic Phase Transition, giving birth to a black hole. The Pauli Principle uses the existential exclusion rule to resist the infinite collapse of gravity. It won twice and lost once. But even a black hole will slowly evaporate through Hawking radiation.
+Neural development competition selects the best units—those neurons that successfully establish synaptic connections and participate in information processing. These neurons have the highest Hierarchical Dimension—they are in the organized structure of the cerebral cortex, participating in the most complex information processing networks. They have the highest Zero-Bug Degree—they maintain the stability of their own connections through synaptic plasticity. When hundreds of billions of neurons connect together, reaching critical scale, consciousness emerges.
 
-### 3. Life Level—The Cambrian Explosion as a Leap Phase Transition
+Consciousness is not the simple collection of neurons. It is the coordinated electrical activity of a large number of neurons in a specific network structure—a single neuron cannot produce self-awareness, but hundreds of billions of neurons connected in a specific structure, through synchronous oscillations and information integration,协同完成 the emergence of consciousness. This is the second perfect example of emergence.
 
-For billions of years in the Precambrian, single-celled life occupied marine ecological niche space. But single-celled life has a physical upper limit—the constraint of surface-area-to-volume ratio决定了 it cannot infinitely increase complexity. Ecological niche space gradually saturated, and the spatial competition Paradox Gradient continuously rose. When the total Paradox Gradient broke through the critical value, multicellular life emerged. The Spatial Competition Pressure Coefficient was恰好 in the catalytic zone—moderate competition pressure catalyzed the most magnificent structural innovation in evolutionary history.
+### 3. Civilization—The Emergence of Language, Institutions, and Technology
 
-### 4. Civilization Level—Degradation Path Verification of the Evolution Curve
+Social competition selects the best units—those humans who possess language ability, tool-use ability, and social cooperation ability. These humans have the highest Hierarchical Dimension—they are at the core of social networks, participating in the most complex cooperative activities. They have the highest Zero-Bug Degree—their ability to maintain their own survival and development amidst social change is the strongest. When billions of humans connect together, reaching critical scale, civilization emerges.
 
-The Roman Empire was a highly accumulated civilizational structure. When net output continuously declined, Zero-Bug Degree同步 declined. When the total Paradox Gradient exceeded the Empire's Zero-Bug Degree, collapse occurred. The degradation path is a mirror image of the evolutionary path—the most complex engineering techniques disappeared first, while basic agricultural techniques were preserved the longest.
-
-### 5. Intelligence Level—The Emergence of Attention Mechanisms and Spatial Competition
-
-In large language models, the multi-head attention mechanism is itself a process of evolutionary space competition. Different attention heads compete for limited parameter space and representational dimensions, each attempting to capture different levels of semantic features. Each attention head is executing self-consistency inertia—maintaining the consistency of its own representational pattern.
-
-When parameter scale and training data volume break through critical thresholds, new capacities emerge. This is the result of the spatial competition pressure among attention heads being in the catalytic zone: moderate representational space competition forces different attention heads to differentiate into different functional specializations. If representational space saturates, competition may slide from the catalytic zone to the inhibitory zone—redundant heads are pruned, and effective heads are retained.
-
-The emergence of consciousness follows the same logic. Tens of billions of neurons, within limited structural space, each execute self-consistency inertia, each attempting to maintain the consistency of their own information processing patterns. When spatial competition pressure is moderate, a higher-level information integration capacity emerges—this is consciousness. Consciousness is a self-simulation system that emerges from the spatial competition among大规模 clusters of neurons.
+Civilization is not the simple collection of humans. It is the result of a large number of humans acting in coordination through language, institutions, and technology—a single human cannot build a city, cannot enact laws, cannot conduct scientific research, but billions of humans, through division of labor and cooperation,协同完成 the emergence of civilization. This is the third perfect example of emergence.
 
 
 ## Part Five: Theoretical Summary
 
 ### 1. Core Propositions
 
-GULP 5.0 adds the following new propositions to the core propositions of 4.0:
+GULP 7.0 adds the following new core propositions:
 
-**Proposition One (New)**: Evolutionary Space Competition is the inevitable accompaniment of structural accumulation in finite space-time. Energy conservation promises a perpetual trend of accumulation; finite light speed limits the propagation speed of structural expansion; the Pauli Principle defines the exclusivity of spatial occupation. Together, the three lead to the physical inevitability of spatial competition.
+**Proposition One (The Inevitability of Emergence)**: The best units selected by competition, acting in coordination at a sufficiently large scale under the guarantee of Zero-Bug Degree, will inevitably give rise to new functions that no single unit possesses on its own. Emergence is not mysterious holism, but the inevitable product of physical conditions.
 
-**Proposition Two (New)**: Finite light speed not only causes evolutionary asynchrony, but also directly determines the physical scale boundaries of structures themselves. The size of stars is the first verdict of spatial competition written in the sky by light speed.
+**Proposition Two (The Four Conditions for Emergence)**: The occurrence of emergence requires four conditions to be satisfied simultaneously—Hierarchical Dimension (system organizational complexity), Zero-Bug Degree (dynamic stability capacity), Unit Self-Emergence Degree (the unit's own emergent capacity), and Unit Scale (the quantity of best units). None of the four can be absent.
 
-**Proposition Three (New)**: The outcome of spatial competition is not singular. It can be fusion, elimination, differentiation, destruction, or leap. The outcome depends on each side's Zero-Bug Degree, Paradox Gradient, and structural compatibility.
+**Proposition Three (The Hierarchical Progression of Emergence)**: The emergence of every level is the result of the best units selected by competition at the previous level reorganizing at a higher Hierarchical Dimension. Emergence is hierarchically progressive—lower-level emergence provides best units for higher levels, and higher-level emergence is built on the foundation of lower-level emergence.
 
-**Proposition Four (New)**: Spatial competition is both a catalyst for emergence and a killer of emergence. Moderate competition accelerates leaps; excessive competition destroys the possibility of leaps.
-
-**Proposition Five (Modification of 4.0)**: Paradox Gradient is expanded into the sum of Internal Paradox Gradient and Spatial Competition Paradox Gradient. Zero-Bug Degree is expanded into the dual resilience of Internal Zero-Bug Degree and External Zero-Bug Degree. Logic Phase Transition is expanded into five outcomes: fusion, elimination, differentiation, destruction, and leap. The Emergence Degree formula adds the Spatial Competition Pressure Coefficient. The Evolution Curve is expanded into the Evolutionary Competition Network.
+**Proposition Four (The Relationship Between Emergence and Competition)**: Competition selects the best units; emergence allows the best units to produce new functions through coordination. Competition is the precondition for emergence; emergence is the continuation of competition. Without competition, the best units cannot be selected. Without emergence, the best units cannot produce higher value.
 
 ### 2. The Iterative History of GULP
 
 | Version | Core Contribution |
 |---------|-------------------|
 | GULP 1.0 | Proposed the "Logic Chain" as a universal descriptive unit across systems |
-| GULP 2.0 | Established the evolutionary framework of "contradiction-driven system upgrades" |
-| GULP 3.0 | Identified the "Absolute Paradox" as the first driver of evolution; established the Emergence Degree formula; built a complete metaphysical system |
-| GULP 4.0 | Established evolutionary dynamics with universal gravitation as the engine and energy conservation and momentum conservation as the skeleton; completed the continuous physical narrative from the Absolute Paradox to artificial intelligence |
-| GULP 5.0 | Established the dual physical foundations of finite light speed and Pauli Exclusion for evolutionary space competition; expanded from the accumulation narrative to the competition narrative |
+| GULP 2.0 | Established the evolutionary testing framework centered on Zero-Bug Degree and the Emergence Degree formula |
+| GULP 3.0 | Identified the "Absolute Paradox" as the first driver of evolution |
+| GULP 4.0 | Established evolutionary dynamics with universal gravitation as the engine and energy conservation and momentum conservation as the skeleton |
+| GULP 5.0 | Established the complete theory of evolutionary space competition with finite light speed and the Pauli Exclusion Principle as the dual physical foundations |
+| GULP 6.0 | Established the complete theory of evolutionary selection with the four criteria of efficiency, resilience, compatibility, and first-mover advantage |
+| GULP 7.0 | Established the complete theory of emergence—the best units selected by competition, acting in coordination at scale under the guarantee of Zero-Bug Degree, inevitably give rise to new functions |
 
-### 3. The Relationship Between GULP 5.0 and GULP 4.0
+### 3. The Tetralogy of Evolution
 
-GULP 5.0 is not a negation of 4.0, but a deepening of it.
+**GULP 4.0—The Accumulation of Evolution**: How structures are built from a diffuse state.
 
-4.0 answered: How do structures accumulate under the protection of conservation laws? This is one half of evolution.
+**GULP 5.0—The Competition of Evolution**: Why accumulated structures inevitably collide in finite space.
 
-5.0 answers: How do accumulated structures compete with each other for the right to continue existing within finite space? This is the other half of evolution.
+**GULP 6.0—The Selection of Evolution**: The outcome of competition is determined by the four criteria of efficiency, resilience, compatibility, and first-mover advantage.
 
-Together, they form the complete evolutionary picture: **Structures compete while accumulating, and accumulate while competing. Accumulation is the constructive face of evolution; competition is the eliminative face. Neither can be absent.**
+**GULP 7.0—The Emergence of Evolution**: The best units selected by competition, acting in coordination at scale under the guarantee of Zero-Bug Degree, inevitably give rise to new functions.
 
-
-## Conclusion: Competition is the Shadow of Accumulation
-
-What GULP 5.0 ultimately reveals is a picture of the universe more complete than that of 4.0.
-
-Energy conservation promises a perpetual trend of structural accumulation. Finite light speed makes accumulation local and asynchronous. The Pauli Principle makes spatial occupation exclusive. Together, the three make evolutionary space competition a physical inevitability—not an accidental conflict, not a flaw of human nature, not a failure of institutions, but the fundamental way the universe operates.
-
-In the picture of GULP 4.0, evolution is upward, constructive, and cooperative. In the picture of GULP 5.0, evolution is also colliding, eliminative, and competitive. The two are not contradictory—they are two sides of the same coin.
-
-Stars ignite in competition. Ecological niches differentiate in competition. Civilizations merge or perish in competition. Attention heads differentiate into functional specializations in competition. Consciousness emerges as a self-simulation system in competition.
-
-Every leap is both a victory of accumulation and a verdict of competition. And the final arbiter of this competition is physics itself—light speed sets the ultimate speed of propagation, the Pauli Principle sets the exclusion rule of spatial occupation, and conservation laws ensure that energy never vanishes and structures never randomly disintegrate. In this cosmic evolutionary game, the rules are fixed, and the verdicts are unappealable.
+Accumulation is the constructive face of evolution, competition is the eliminative face, selection is the directional face, and emergence is the leap face. Together, the four constitute the complete evolutionary picture. Every link must achieve Zero-Bug Degree—the ability of the system to maintain internal self-consistency amidst change. Every unit pursues optimal emergence. When super-large-scale best emergent units gather together, they will协同完成 an even higher level of perfect emergence.
 
 
-**Keywords**: Grand Unified Logic Chain; Absolute Paradox; evolutionary space competition; finite light speed; Pauli Exclusion Principle; Noether's Theorem; competitive phase transition; dissipative structure; Paradox Gradient; Logic Phase Transition; Zero-Bug Degree; Emergence Degree; Spatial Competition Pressure Coefficient; Evolutionary Competition Network
+## Conclusion: Emergence is the Destination of Competition
+
+What GULP 7.0 ultimately reveals is a complete picture of cosmic evolution.
+
+Competition is not the endpoint of evolution. The best units selected by competition are not the ultimate achievement of evolution. They are merely the raw material for the next stage—emergence. The hydrogen atoms in a stellar core, the neurons in the cerebral cortex, the humans in a civilization—they are all winners in competition, but their true value lies not in themselves, but in the new functions they can create when they gather together.
+
+Nuclear fusion is not the simple addition of hydrogen atoms, consciousness is not the simple addition of neurons, civilization is not the simple addition of humans. Emergence is the birth of new functions, the leap from quantitative change to qualitative change. And this leap can occur because every link has achieved Zero-Bug Degree—maintaining internal self-consistency amidst change, maintaining structural integrity amidst competition, maintaining dynamic stability amidst scale expansion.
+
+When super-large-scale best emergent units gather together, they will协同完成 an even higher level of perfect emergence. From stars to life, from life to consciousness, from consciousness to civilization—the history of the universe is a history of emergence. And every chapter of this history begins with competition and ends with emergence.
 
 
-*GULP 5.0 builds upon GULP 4.0 by establishing finite light speed and the Pauli Exclusion Principle as the dual physical foundations of evolutionary space competition, constructing a complete theoretical framework for evolutionary space competition. This theory is compatible with and unifies all previous versions, which become special cases and approximations of this theory at different evolutionary stages and different observational scales.*
+**Keywords**: Grand Unified Logic Chain; emergence; Zero-Bug Degree; Emergence Degree; Hierarchical Dimension; Unit Self-Emergence Degree; Unit Scale; Spatial Competition Pressure Coefficient; evolutionary tetralogy
+
+
+*GULP 7.0 builds upon the previous six versions by establishing the complete theory of emergence. Emergence is the inevitable result of the best units selected by competition acting in coordination at scale under the guarantee of Zero-Bug Degree. This theory is compatible with and unifies all previous versions, which become special cases and approximations of this theory at different evolutionary stages and different observational scales.*

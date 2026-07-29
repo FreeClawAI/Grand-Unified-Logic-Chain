@@ -84,7 +84,7 @@ In these stages, evolution manifests as continuous, predictable morphological ch
 
 ### 3. Phase Transition: When Bugs Become Singularities of Leap
 
-However, inconsistencies do not disappear; they only accumulate and transform. When the intensity of contradiction within the old logic chain exceeds its processing limit, the Paradox Gradient tends toward infinity. From the perspective of the old dimension, this appears as an unsolvable fatal error, a "Bug." But this theory reveals a deeper truth: a Bug is the crystallization of evolutionary fuel, a contradiction singularity about to trigger a dimensional leap.
+However, inconsistencies do not disappear; they only accumulate and transform. When the intensity of contradiction within the old logic chain exceeds its processing limit, the Paradox Gradient tends toward infinity. From the perspective of the old dimension, this appears as an unsolvable fatal error, a "Bug." But this theory reveals a deeper truth: a Bug is the crystallization of evolutionary fuel, a singularity about to trigger a dimensional leap.
 
 At this point, the system is forced into mandatory logic restructuring. This is Logic Phase Transition. Logic Phase Transition is the process by which a system leaps from an old logic chain to a new one. It is analogous to water changing from liquid to gas, but higher-level Logic Phase Transitions manifest as fundamental reorganizations of system structure.
 
@@ -92,7 +92,7 @@ At this point, the system is forced into mandatory logic restructuring. This is 
 
 **Energy Technology Logic Phase Transition: From Steam Engine to Electric Generator.** The steam engine relied on fuel combustion to produce thermal energy for work. Its Bug lay in the fact that thermal conversion efficiency was always limited by the Carnot cycle, with large amounts of energy lost as waste heat that could not be utilized. This Bug was fatal within the framework of thermodynamics and could not be patched. It was precisely this Bug, as a singularity, that triggered the logic restructuring of electromagnetic systems. The electric generator no longer relied on combustion, but directly used electromagnetic induction to convert mechanical energy into electrical energy, establishing a completely new logic chain of power transmission. This was a Logic Phase Transition in energy technology.
 
-**Life Logic Phase Transition: The Cambrian Explosion.** Before this, life on Earth had been in a unicellular steady state for billions of years. Where was the problem? It lay in the irreconcilable conflict between the "upper limit of energy acquisition" and the "expansion of genetic complexity" in unicellular organisms. A single cell could not simultaneously grow larger, become more complex, and maintain efficient energy exchange. This Bug ultimately triggered the Logic Phase Transition of multicellular life. Cells began to divide labor and specialize, and life leaped instantaneously into a completely new morphological dimension. The ancestors of all animal phyla we see today were born in that "instant." Unicellular life could not infinitely increase complexity; when energy exchange and structural complexity came into conflict, unicellular life leaped to multicellular life.
+**Life Logic Phase Transition: The Cambrian Explosion.** Before this, life on Earth had been in a unicellular steady state for billions of years. The problem lay in the irreconcilable conflict between the "upper limit of energy acquisition" and the "expansion of genetic complexity" in unicellular organisms. A single cell could not simultaneously grow larger, become more complex, and maintain efficient energy exchange. This Bug ultimately triggered the Logic Phase Transition of multicellular life. Cells began to divide labor and specialize, and life leaped instantaneously into a completely new morphological dimension. The ancestors of all animal phyla we see today were born in that "instant." Unicellular life could not infinitely increase complexity; when energy exchange and structural complexity came into conflict, unicellular life leaped to multicellular life.
 
 **Conclusion: Continuity is merely the illusion of relative calm between two Logic Phase Transitions. The essence of the evolutionary curve is a trajectory of stepwise leaps marked and triggered by countless Bugs.** Every leap is a step taken toward resolving the Absolute Paradox. Evolution is not the simple accumulation of continuous changes, but the production of new forms of existence through Logic Phase Transition after pressure reaches its limit.
 
@@ -101,8 +101,6 @@ At this point, the system is forced into mandatory logic restructuring. This is 
 ## III. Logic Chains—The Basic Structure of Evolution
 
 ### 1. Definition of Logic Chains
-
-If the information contradiction entity is the fundamental unit, then logic chains are the structures formed by their connection.
 
 Logic chains are connections of causal relationships in the evolutionary process, formed by the interaction of information, energy, structure, and goals. They are the basic units of all systems and can exist at different levels and dimensions:
 
@@ -134,7 +132,7 @@ Zero-Bug Degree is not "making no mistakes," nor is it static perfection. It is 
 
 ### 1. Definition and Mechanism of Emergence
 
-When a large number of information contradiction entities form stable logic chains and reach a certain scale, new higher-dimensional functions are produced. This is Emergence.
+When a large number of units form stable logic chains and reach a certain scale, new higher-dimensional functions are produced. This is Emergence.
 
 Basic pathway:
 
@@ -179,15 +177,15 @@ A single person cannot form a civilization. Yet when the logic chains of billion
 
 Evolution follows a phase sequence: birth, expansion, competition, enrichment, emergence.
 
-Birth is the phase in which the first information contradiction entity or the first logic chain appears within evolutionary space. Birth means that a structure that did not previously exist has formally entered evolutionary time. The hallmark of birth is not "completeness," but "existence"—a structure identifiable as an independent unit has appeared within evolutionary space.
+Birth is the phase in which the first logic chain appears within evolutionary space. Birth means that a structure that did not previously exist has formally entered evolutionary time. The hallmark of birth is not "completeness," but "existence"—a structure identifiable as an independent unit has appeared within evolutionary space.
 
-After the system is born, as long as evolutionary space permits, logic chains rapidly replicate and expand themselves. Expansion is the process by which information contradiction entities utilize available resources to occupy a larger range within evolutionary space. The expansion phase is characterized by high speed and low resistance.
+After the system is born, as long as evolutionary space permits, logic chains rapidly replicate and expand themselves. Expansion is the process of utilizing available resources to occupy a larger range within evolutionary space. The expansion phase is characterized by high speed and low resistance.
 
 When expansion reaches the boundary of evolutionary space, multiple logic chains begin to compete for limited resources. Competition forces each logic chain to prove its Zero-Bug Degree—only structures with higher internal consistency and stronger capacity to absorb change can continue to exist. Competition is a filtering mechanism; it clears redundant structures from evolutionary space and forces systems to optimize or perish.
 
 Competition is not the end. The victorious logic chain absorbs the fragments of other logic chains that were filtered, shattered, or abandoned during the competition phase into its own structure. Enrichment means that the information density of the system increases dramatically—it is no longer a thin logic chain, but a composite structure that has accumulated multiple solutions. Enrichment provides the necessary information thickness for emergence.
 
-When enrichment reaches a critical scale, and the number and connection density of information contradiction entities within the system exceed a threshold, a new function that did not exist at the previous level suddenly emerges. Emergence is the process of generating a new dimension from an old structure—it is not a patch on the old structure, but the generation of a new capacity that the old logical language cannot describe. After emergence is complete, the system enters a new level and may re-experience the cycle of birth, expansion, competition, enrichment, and emergence at this new level.
+When enrichment reaches a critical scale, and the number and connection density of logic chains within the system exceed a threshold, a new function that did not exist at the previous level suddenly emerges. Emergence is the process of generating a new dimension from an old structure—it is not a patch on the old structure, but the generation of a new capacity that the old logical language cannot describe. After emergence is complete, the system enters a new level and may re-experience the cycle of birth, expansion, competition, enrichment, and emergence at this new level.
 
 ---
 
@@ -350,7 +348,7 @@ Yet this is the most glorious moment of victory. When heat death is ultimately r
 
 Imagine a film whose final frame freezes on complete, uniform darkness. The story seems to have ended forever. But the paradox descends at this very moment: this ending of "the final frame frozen on darkness," this historical fact that "it once lived and ultimately died," this concept of an endgame that could be retrospected and marveled at by some future super-dimensional existence—this in itself is a piece of information, a form of existence.
 
-In many religious traditions, creation myths contain the paradox of "something from nothing." This theory provides a cosmological version: God did not "create" the world; God "is" the Absolute Paradox itself that became aware of its own nothingness and thereby detonated existence. And the final heat death is the Sabbath of this paradox returning to itself, preparing for the next explosion.
+In many religious traditions, creation myths contain the paradox of "something from nothing." This theory provides a version: God did not "create" the world; God "is" the Absolute Paradox itself that became aware of its own nothingness and thereby detonated existence. And the final heat death is the Sabbath of this paradox returning to itself, preparing for the next explosion.
 
 Thus, a new Logic Phase Transition will be inevitably triggered. At the very moment of its death, it will instantly become the seed of its own rebirth. This is not a machine walking toward heat death, but a blazing logical flame, an endless, infinitely recursive computation of resolution, carried out between the eternal paradox entities of "Nothingness" and "Existence," for the resolution of the one and only paradox.
 
@@ -374,11 +372,11 @@ This is Grand Unified Logic Path 3.0—the information evolution theory driven b
 
 GULP provides a theoretical foundation for comprehensively understanding the evolution of the universe, life, society, and intelligent systems, and lays a guiding framework for future scientific exploration and technological innovation. It provides unified descriptions of the evolution of physical, biological, social, economic, and intelligent systems; spans scales and dimensions from micro genes to macro galactic systems; drives systemic innovation in economy, civilization, technology, AI, and other fields; enables cross-dimensional evolution through the interaction of logic chains across different systems; and allows evolutionary continuity to be verified through the traceability of morphological changes.
 
-Perhaps the greatest revelation GULP3.0 offers us is this: each of us, in our own domain, faces those old logic chains that can no longer bear their weight. And every creative breakthrough is a necessary link in this cosmic-level information restructuring.
+Perhaps the greatest revelation GULP3.0 offers us is this: each of us, in our own domain, faces those old logic chains that can no longer bear their weight. And every creative breakthrough is a necessary link in this information restructuring.
 
 ---
 
-**Keywords**: Grand Unified Logic Path; Absolute Paradox; Paradox Gradient; Logic Phase Transition; Zero-Bug Degree; Information Contradiction Entity; Logic Chain; Emergence; Consciousness; Evolution; Multi-Galactic Evolutionary Framework; Eternal Return
+**Keywords**: Grand Unified Logic Path; Absolute Paradox; Paradox Gradient; Logic Phase Transition; Zero-Bug Degree; Logic Chain; Emergence; Consciousness; Evolution; Multi-Galactic Evolutionary Framework; Eternal Return
 
 ---
 

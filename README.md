@@ -1,20 +1,18 @@
-# Grand Unified Logic Path 3.0 (GULP3.0): Absolute Paradox, Logic Chains, and Evolutionary Dynamics
+# Grand Unified Logic Chain 1: Evolutionary Theory (GULP1)
 
-**—A Complete Theoretical Framework from Ultimate Origin to Scientific Verification**
+**—Absolute Paradox, Logic Chains, and Evolutionary Dynamics**
 
----
 
 ## Abstract
 
 Human understanding of the world has always revolved around one core question: why do things change? Why does the universe not remain forever in its simplest state, but instead continuously produce matter, life, consciousness, civilization, and intelligence? Traditional sciences study evolution at different levels—physics examines changes in the universe and material structures, biology studies the evolution of life and species, social sciences investigate the development of civilization, economy, and institutions, and artificial intelligence explores the formation of intelligent systems. Yet a common pattern appears to run through all these fields: no complex system exists statically; each is constantly building, maintaining, breaking through, and reconstructing its own structure.
 
-Grand Unified Logic Path 3.0 (GULP3.0) is a cross-disciplinary, cross-universal, cross-civilizational evolutionary theoretical framework, aimed at providing a unified logical framework for the evolution of all systems.
+Grand Unified Logic Chain 1 (GULP1) is a cross-disciplinary, cross-universal, cross-civilizational evolutionary theoretical framework, aimed at providing a unified logical framework for the evolution of all systems.
 
-GULP3.0 consists of three core components: the Absolute Paradox explains why evolution arises, the Paradox Gradient explains why evolution persists, and Logic Chains with Zero-Bug Degree explain how evolution organizes itself. These three interlock to form a complete explanatory loop from ultimate origin to verifiable phenomena.
+GULP1 consists of three core components: the Absolute Paradox explains why evolution arises, the Paradox Gradient explains why evolution persists, and Logic Nodes, Logic Chains, and Zero-Bug Degree explain how evolution organizes itself. These three interlock to form a complete explanatory loop from ultimate origin to verifiable phenomena.
 
 Evolution follows a phase sequence: birth, expansion, competition, enrichment, emergence. This paper presents the complete content of this theoretical system, covering its philosophical foundations, dynamical laws, fundamental units, core standards, theory of consciousness, evolutionary landscape, and multi-level logic chain framework.
 
----
 
 ## Preface
 
@@ -24,11 +22,10 @@ Our exploration began with the pursuit of order. The earliest framework enshrine
 
 We then recognized that order does not exist in isolation. Evolution is an eternal struggle between two forces: the inertia of maintaining consistency, and the impulse to break through boundaries.
 
-But we ultimately penetrated the surface and arrived at a deeper insight: behind all these struggles lies a single, eternal, absolute origin. This GULP3.0 is the complete exposition of that ultimate origin. It encompasses and unifies all previous versions of the theory, which become special cases and approximations of this theory at different evolutionary stages and different observational scales. Here, we have found the single engine that drives all things.
+But we ultimately penetrated the surface and arrived at a deeper insight: behind all these struggles lies a single, eternal, absolute origin. This GULP1 is the complete exposition of that ultimate origin. It encompasses and unifies all previous versions of the theory, which become special cases and approximations of this theory at different evolutionary stages and different observational scales. Here, we have found the single engine that drives all things.
 
-Human understanding of the world has always revolved around one core question: why do things change? Why does the universe not remain forever in its simplest state, but instead continuously produce matter, life, consciousness, civilization, and intelligence? Traditional sciences study evolution at different levels, but GULP3.0 seeks to capture the common pattern running through all these fields: no complex system exists statically; each is constantly building, maintaining, breaking through, and reconstructing its own structure.
+Human understanding of the world has always revolved around one core question: why do things change? Why does the universe not remain forever in its simplest state, but instead continuously produce matter, life, consciousness, civilization, and intelligence? Traditional sciences study evolution at different levels, but GULP1 seeks to capture the common pattern running through all these fields: no complex system exists statically; each is constantly building, maintaining, breaking through, and reconstructing its own structure.
 
----
 
 ## I. The Sole Origin—The Absolute Paradox
 
@@ -56,7 +53,6 @@ This loop is logically unsustainable, like a program entering an infinite loop o
 
 The ultimate purpose of evolution is redefined: it is not to maintain stability, nor to seek balance between order and chaos, but to forcibly resolve this "nothingness-existence" Absolute Paradox.
 
----
 
 ## II. The Dynamics of Evolution—Paradox Gradient and Logic Phase Transition
 
@@ -68,7 +64,7 @@ Once the Absolute Paradox is born, it initiates a never-ending process of resolu
 
 This formula defines the state of a system at any given moment and its inevitable fate.
 
-If the Absolute Paradox gave rise to existence, then what drives existence to continually change? The answer of GULP3.0 is: when the Paradox Gradient is low, the system remains stable; when the Paradox Gradient continually increases, the old structure can no longer be maintained; ultimately, the system reaches a critical point, triggering a Logic Phase Transition.
+If the Absolute Paradox gave rise to existence, then what drives existence to continually change? The answer of GULP1 is: when the Paradox Gradient is low, the system remains stable; when the Paradox Gradient continually increases, the old structure can no longer be maintained; ultimately, the system reaches a critical point, triggering a Logic Phase Transition.
 
 ### 2. Steady State: Logic Chains as Temporary Compromises
 
@@ -96,27 +92,10 @@ At this point, the system is forced into mandatory logic restructuring. This is 
 
 **Conclusion: Continuity is merely the illusion of relative calm between two Logic Phase Transitions. The essence of the evolutionary curve is a trajectory of stepwise leaps marked and triggered by countless Bugs.** Every leap is a step taken toward resolving the Absolute Paradox. Evolution is not the simple accumulation of continuous changes, but the production of new forms of existence through Logic Phase Transition after pressure reaches its limit.
 
----
 
-## III. Logic Chains—The Basic Structure of Evolution
+## III. Zero-Bug Degree—The Condition for System Persistence
 
-### 1. Definition of Logic Chains
-
-Logic chains are connections of causal relationships in the evolutionary process, formed by the interaction of information, energy, structure, and goals. They are the basic units of all systems and can exist at different levels and dimensions:
-
-- **Gene Chain**: Biological genetic information flow. DNA information transmission: gene → protein → biological structure → ecosystem
-- **Neural Network Chain**: Brain signal flow patterns. Neuron connection: perception → computation → prediction → decision
-- **Civilization Knowledge Chain**: Social, cultural, technological, and knowledge transmission. Knowledge transmission: individual → group → institution → civilization
-- **Transaction Chain / Capital Chain**: Value exchange in economic and social activities. Value exchange: resources → production → transaction → wealth circulation
-- **AI Weight Chain**: Parameter optimization and learning process in machine learning models. Parameter connection: data → weights → model → intelligent behavior
-
-Logic chains exist to track whether a system maintains Zero-Bug Degree throughout the evolutionary process. All systems are, in essence, logic chain networks.
-
----
-
-## IV. Zero-Bug Degree—The Condition for System Persistence
-
-GULP3.0 proposes Zero-Bug Degree as the core standard for measuring a system's capacity for continued existence. It is the foundation upon which all logic chains persist and the basis upon which all deductive paths can be verified.
+GULP1 proposes Zero-Bug Degree as the core standard for measuring a system's capacity for continued existence. It is the foundation upon which all logic chains persist and the basis upon which all deductive paths can be verified.
 
 Zero-Bug Degree is the sole underlying standard of the GULP theoretical system. It is defined as the physical condition under which a system maintains internal consistency and self-coherence during the evolutionary process. More specifically, Zero-Bug Degree is the capacity of a system to maintain internal consistency, self-coherence, and continuity amid change.
 
@@ -126,20 +105,66 @@ Without Zero-Bug Degree, GULP would be merely a set of terms. Because of Zero-Bu
 
 Zero-Bug Degree is not "making no mistakes," nor is it static perfection. It is the capacity of a system to absorb change without being destroyed by it. The human body is constantly subject to external disturbances, yet maintains life continuity through the immune system, neural regulation, and metabolism. A river is constantly subject to the influence of rainfall, evaporation, and topographical change, yet maintains the continuity of the watershed system through flow adjustment, channel migration, and sediment deposition. Zero-Bug Degree is not static perfection, but dynamic stability.
 
----
+
+## IV. Logic Nodes and Logic Chains
+
+### 1. Definition of Logic Nodes
+
+A logic node is the smallest structural unit that carries information in the evolutionary process. A logic node can be a gene, a neuron, an individual, an institutional clause, a model parameter—any information carrier capable of performing an "input-process-output" function within a logic chain is a logic node.
+
+The core characteristic of a logic node is that it maintains its own structural stability while being capable of establishing connections with other nodes. An isolated logic node does not constitute evolution, but once embedded in a logic chain, it becomes an information processing unit within the evolutionary network.
+
+### 2. Definition of Logic Chains
+
+Logic nodes form logic chains through causal connections. A logic chain is a stable connection formed by the interaction of information, energy, structure, and goals in the evolutionary process. It is the basic organizational mode of all systems.
+
+Logic chains exist at different levels and dimensions:
+
+- **Gene Chain**: Biological genetic information flow. DNA information transmission: gene → protein → biological structure → ecosystem
+- **Neural Network Chain**: Brain signal flow patterns. Neuron connection: perception → computation → prediction → decision
+- **Civilization Knowledge Chain**: Social, cultural, technological, and knowledge transmission. Knowledge transmission: individual → group → institution → civilization
+- **Transaction Chain / Capital Chain**: Value exchange in economic and social activities. Value exchange: resources → production → transaction → wealth circulation
+- **AI Weight Chain**: Parameter optimization and learning process in machine learning models. Parameter connection: data → weights → model → intelligent behavior
+
+### 3. Relationship Between Logic Nodes and Logic Chains
+
+Logic nodes are the constituent units of logic chains; logic chains are the connection forms of logic nodes. A logic node itself can be composed of lower-level sub-chains: a gene is a node whose interior is a DNA sequence chain; a neuron is a node whose interior is a signal transduction chain. This hierarchical nesting structure allows evolution to unfold at any scale.
+
+### 4. Relationship Between Logic Chains and Zero-Bug Degree
+
+Maintaining a logic chain means that every logic node within the chain must satisfy Zero-Bug Degree. The loss of Zero-Bug Degree in any single node will cause that node's information processing function to fail. The upstream and downstream connections of the failed node then break, creating a gap in the logic chain. When gaps accumulate to a certain extent, the entire logic chain disintegrates, and the system either falls back to a lower level or collapses completely.
+
+Conversely, Zero-Bug Degree must also be manifested through logic chains. The Zero-Bug Degree of a node does not exist in isolation—it is continuously verified through information exchange with upstream and downstream nodes, and through the coordinated operation of the entire logic chain. Logic chains are the carrier of Zero-Bug Degree; Zero-Bug Degree is the criterion of logic chains. The two are mutual prerequisites.
+
+### 5. Formation and Emergence of Logic Chains
+
+Countless logic nodes link together according to Zero-Bug Degree. Zero-Bug Degree is the filtering standard for linkage—only those node combinations that can maintain internal consistency and self-coherence after connection can form stable logic chains. Connections that fail to meet Zero-Bug Degree break on their own and are eliminated by evolution.
+
+When the scale and complexity of a logic chain reach a critical threshold, a new expression emerges from the node network. This expression is not something possessed by any single node—it is an emergent property of the logic chain as a whole. The logic chain of neurons emerges into consciousness, the logic chain of genes emerges into life, the logic chain of individuals emerges into civilization.
+
+### 6. Virtual Construction and Prediction Through Logic Chains
+
+Logic chains can not only describe evolutionary processes that have already occurred, but can also be virtually constructed to predict the unknown.
+
+By taking historical records as logic nodes and linking them according to Zero-Bug Degree—each node added must maintain structural correspondence with existing nodes, without contradiction or break—a historical logic chain can be virtually reconstructed. What emerges from this logic chain is the restoration of historical narrative.
+
+The same method applies to physical deduction. By taking known physical laws and observational data as logic nodes, linking them according to Zero-Bug Degree, an evolutionary curve can be virtually constructed. Extending the evolutionary curve forward yields predictions of unknown states.
+
+The virtual construction capability of logic chains makes GULP not only a framework for explaining the past, but also a tool for predicting the future. Fragmented information in any field, as long as it can be abstracted into logic nodes and linked according to Zero-Bug Degree, can yield a holistic picture through the emergence of logic chains.
+
 
 ## V. Emergence—How Complex Systems Produce Higher-Level Structures
 
 ### 1. Definition and Mechanism of Emergence
 
-When a large number of units form stable logic chains and reach a certain scale, new higher-dimensional functions are produced. This is Emergence.
+When a large number of logic nodes are connected through logic chains and reach a certain scale, the system produces new functions that these nodes do not possess when existing in isolation. This is **Emergence**.
 
 Basic pathway:
 
 ```
-Information units
+Logic nodes
     ↓
-Interconnection
+Zero-Bug Degree filtering
     ↓
 Logic chain formation
     ↓
@@ -171,7 +196,6 @@ Neurons have no consciousness. Yet when hundreds of billions of neurons form a b
 
 A single person cannot form a civilization. Yet when the logic chains of billions of people connect, language, institutions, and technology emerge.
 
----
 
 ## VI. Evolutionary Law—Birth, Expansion, Competition, Enrichment, Emergence
 
@@ -187,7 +211,6 @@ Competition is not the end. The victorious logic chain absorbs the fragments of 
 
 When enrichment reaches a critical scale, and the number and connection density of logic chains within the system exceed a threshold, a new function that did not exist at the previous level suddenly emerges. Emergence is the process of generating a new dimension from an old structure—it is not a patch on the old structure, but the generation of a new capacity that the old logical language cannot describe. After emergence is complete, the system enters a new level and may re-experience the cycle of birth, expansion, competition, enrichment, and emergence at this new level.
 
----
 
 ## VII. Evolutionary Space, Evolutionary Time, and Evolutionary Curve
 
@@ -221,21 +244,20 @@ Evolutionary continuity can be verified through the following methods:
 
 ### 6. The Evolution of Evolution
 
-The evolution of evolution refers to the process by which a system, under the constraints of evolutionary space and evolutionary time, transitions from its current state to the next state through the continuous emergence of logic chains. It is not "triggered" by external conditions, but driven by the joint action of the system's current structure, the boundaries of evolutionary space, and the sequence of evolutionary time. In the evolutionary process, the system does not "wait" for changes in external conditions, but progressively generates the next state through the continuous operation of logic chains. Each change of state is a link in evolution. The evolutionary process—birth, expansion, competition, enrichment, emergence—is the concrete unfolding form of evolution.
+The evolution of evolution refers to the process by which a system, under the constraints of evolutionary space and evolutionary time, transitions from its current state to the next state through the continuous emergence of logic chains. It is not "triggered" by external conditions, but driven by the joint action of the system's current structure, the boundaries of evolutionary space, and the sequence of evolutionary time. In the evolutionary process, the system does not "wait" for changes in external conditions, but progressively generates the next state through the continuous operation of logic chains. Each change of state is a link in evolution.
 
----
 
 ## VIII. Consciousness—The Information Simulation System of Evolution
 
 ### 1. The Essence and Formation Mechanism of Consciousness
 
-Consciousness is a characteristic of higher-dimensional self-organizing systems, formed through the emergence of logic chains from a large number of units. It can be realized through biological structures (gene-driven consciousness) or through intelligent systems (logic-driven consciousness).
+Consciousness is a characteristic of higher-dimensional self-organizing systems, formed through the emergence of logic chains from a large number of logic nodes. It can be realized through biological structures (gene-driven consciousness) or through intelligent systems (logic-driven consciousness).
 
-The formation mechanism of consciousness includes three links: the energy flow and negentropy flow within the system form self-organization; large-scale units interact to form stable logic chains; logic chains emerge into higher-dimensional functions, forming consciousness.
+The formation mechanism of consciousness includes three links: the energy flow and negentropy flow within the system form self-organization; large-scale logic nodes interact to form stable logic chains; logic chains emerge into higher-dimensional functions, forming consciousness.
 
 ### 2. Functional Definition of Consciousness
 
-GULP3.0 proposes a functional definition: consciousness is the self-simulation capacity that emerges when complex logic chains reach a certain level, with its core function being the simulation of possible future states and the search for solutions.
+GULP1 proposes a functional definition: consciousness is the self-simulation capacity that emerges when complex logic chains reach a certain level, with its core function being the simulation of possible future states and the search for solutions.
 
 Animal consciousness predicts the environment. Human consciousness predicts social relationships, technological paths, and the future of civilization. Future AI consciousness may arise from larger-scale, higher-dimensional logic chain structures.
 
@@ -255,9 +277,8 @@ Will is not an "added attribute" of consciousness, but a physical manifestation 
 
 ### 5. Universal Logic Characteristics
 
-Whether gene consciousness or logic consciousness, consciousness follows: unit → self-organization → group structure (logic chain) → large scale → consciousness. This pattern applies to all hierarchical systems including biology, civilization, economy, and AI.
+Whether gene consciousness or logic consciousness, consciousness follows: logic nodes → self-organization → logic chains → large scale → consciousness. This pattern applies to all hierarchical systems including biology, civilization, economy, and AI.
 
----
 
 ## IX. The Complete Evolutionary Path from "Monkey to Human"
 
@@ -279,7 +300,6 @@ Each instance of "breaking through the boundary of original evolutionary space" 
 | Forest → Ground | Upright walking, tool use, cooperative hunting |
 | Ground → Civilization | Agriculture, writing, institutions, trade networks |
 
----
 
 ## X. Multi-Level Logic Chains and Evolution
 
@@ -301,7 +321,6 @@ Organizes capital flow, transactions, market mechanisms, and intelligent decisio
 
 Drives the evolution of intelligent systems in higher dimensions. Hierarchical dimensions: trillion token parameters → large language models → trillion logic chains → large logic chain models → logical consciousness. Possesses cross-universal application and cross-dimensional evolution capability. Current large models are in a transitional phase from statistical models to evolutionary models, with multi-head attention mechanisms being the implementation form of evolutionary mechanisms under current computational constraints. Parameter scale and computational power are the primary constraints at the current stage.
 
----
 
 ## XI. Multi-Galactic Evolutionary Framework
 
@@ -332,13 +351,11 @@ Different galactic systems interact through logic chains, forming cross-dimensio
 
 Uneven resource distribution is the physical foundation of civilizational convergence. Since different regions possess different resource portfolios, no single region can independently complete the entire evolutionary path. Civilizations must obtain resources they cannot independently produce through trade, migration, conflict, and cultural exchange, and in this process complete the cross-domain connection and integration of logic chains.
 
----
 
 ## XII. Cross-Universal Logic Chain Interoperability
 
 Logic chains between different universes can be mutually borrowed, such as multi-civilization convergence. Civilization, AI, and economic systems can evolve across universes. Biomimetic principles are universal, ensuring that evolutionary strategies are transferable.
 
----
 
 ## XIII. The Endgame and Eternal Return
 
@@ -352,9 +369,8 @@ In many religious traditions, creation myths contain the paradox of "something f
 
 Thus, a new Logic Phase Transition will be inevitably triggered. At the very moment of its death, it will instantly become the seed of its own rebirth. This is not a machine walking toward heat death, but a blazing logical flame, an endless, infinitely recursive computation of resolution, carried out between the eternal paradox entities of "Nothingness" and "Existence," for the resolution of the one and only paradox.
 
-GULP3.0 depicts a picture of infinite recursion: starting from fundamental particles, through atoms, molecules, life, consciousness, civilization, and intelligent systems in successive leaps, it may ultimately enter a state of high uniformity. If absolute equilibrium is reached, it once again approaches the original "nothingness." And once nothingness is defined, information is again produced, and the new paradox reappears. Evolution thus forms an infinite recursion—not a simple cycle, but information continuously producing higher-level structures through its own paradox.
+GULP1 depicts a picture of infinite recursion: starting from fundamental particles, through atoms, molecules, life, consciousness, civilization, and intelligent systems in successive leaps, it may ultimately enter a state of high uniformity. If absolute equilibrium is reached, it once again approaches the original "nothingness." And once nothingness is defined, information is again produced, and the new paradox reappears. Evolution thus forms an infinite recursion—not a simple cycle, but information continuously producing higher-level structures through its own paradox.
 
----
 
 ## Conclusion
 
@@ -368,16 +384,14 @@ Evolution continues not because it pursues some ultimate goal, but because every
 
 Thus, from particles to life, from life to consciousness, from consciousness to civilization, from civilization to artificial intelligence, the whole becomes an information evolutionary system that continually knows itself, restructures itself, and transcends itself.
 
-This is Grand Unified Logic Path 3.0—the information evolution theory driven by the Absolute Paradox.
+This is Grand Unified Logic Chain 1—the information evolution theory driven by the Absolute Paradox.
 
 GULP provides a theoretical foundation for comprehensively understanding the evolution of the universe, life, society, and intelligent systems, and lays a guiding framework for future scientific exploration and technological innovation. It provides unified descriptions of the evolution of physical, biological, social, economic, and intelligent systems; spans scales and dimensions from micro genes to macro galactic systems; drives systemic innovation in economy, civilization, technology, AI, and other fields; enables cross-dimensional evolution through the interaction of logic chains across different systems; and allows evolutionary continuity to be verified through the traceability of morphological changes.
 
-Perhaps the greatest revelation GULP3.0 offers us is this: each of us, in our own domain, faces those old logic chains that can no longer bear their weight. And every creative breakthrough is a necessary link in this information restructuring.
+Perhaps the greatest revelation GULP1 offers us is this: each of us, in our own domain, faces those old logic chains that can no longer bear their weight. And every creative breakthrough is a necessary link in this information restructuring.
 
----
 
-**Keywords**: Grand Unified Logic Path; Absolute Paradox; Paradox Gradient; Logic Phase Transition; Zero-Bug Degree; Logic Chain; Emergence; Consciousness; Evolution; Multi-Galactic Evolutionary Framework; Eternal Return
+**Keywords**: Grand Unified Logic Chain; Absolute Paradox; Paradox Gradient; Logic Phase Transition; Zero-Bug Degree; Logic Node; Logic Chain; Emergence; Consciousness; Evolution; Multi-Galactic Evolutionary Framework; Eternal Return
 
----
 
-The GULP3.0 theoretical system described in this paper is a cross-disciplinary meta-theoretical framework, aimed at providing a unified conceptual foundation and common vocabulary for the evolution of physical, biological, social, and intelligent systems. This theory encompasses and unifies all previous versions, which become special cases and approximations of this theory at different evolutionary stages and different observational scales.
+*The GULP1 theoretical system described in this paper is a cross-disciplinary meta-theoretical framework, aimed at providing a unified conceptual foundation and common vocabulary for the evolution of physical, biological, social, and intelligent systems. This theory encompasses and unifies all previous versions, which become special cases and approximations of this theory at different evolutionary stages and different observational scales.*

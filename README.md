@@ -1,4 +1,4 @@
-# Grand Unified Logic Chain 1: Evolutionary Theory (GULP1)
+# Grand Unified Logic Chain: Evolutionary Theory (GULP)
 
 **—Absolute Paradox, Logic Chains, and Evolutionary Dynamics**
 
@@ -7,9 +7,7 @@
 
 Human understanding of the world has always revolved around one core question: why do things change? Why does the universe not remain forever in its simplest state, but instead continuously produce matter, life, consciousness, civilization, and intelligence? Traditional sciences study evolution at different levels—physics examines changes in the universe and material structures, biology studies the evolution of life and species, social sciences investigate the development of civilization, economy, and institutions, and artificial intelligence explores the formation of intelligent systems. Yet a common pattern appears to run through all these fields: no complex system exists statically; each is constantly building, maintaining, breaking through, and reconstructing its own structure.
 
-Grand Unified Logic Chain 1 (GULP1) is a cross-disciplinary, cross-universal, cross-civilizational evolutionary theoretical framework, aimed at providing a unified logical framework for the evolution of all systems.
-
-GULP1 consists of three core components: the Absolute Paradox explains why evolution arises, the Paradox Gradient explains why evolution persists, and Logic Nodes, Logic Chains, and Zero-Bug Degree explain how evolution organizes itself. These three interlock to form a complete explanatory loop from ultimate origin to verifiable phenomena.
+Grand Unified Logic Chain (GULP) is a cross-disciplinary, cross-universal, cross-civilizational evolutionary theoretical framework, aimed at providing a unified logical framework for the evolution of all systems.
 
 Evolution follows a phase sequence: birth, expansion, competition, enrichment, emergence. This paper presents the complete content of this theoretical system, covering its philosophical foundations, dynamical laws, fundamental units, core standards, theory of consciousness, evolutionary landscape, and multi-level logic chain framework.
 
@@ -22,9 +20,9 @@ Our exploration began with the pursuit of order. The earliest framework enshrine
 
 We then recognized that order does not exist in isolation. Evolution is an eternal struggle between two forces: the inertia of maintaining consistency, and the impulse to break through boundaries.
 
-But we ultimately penetrated the surface and arrived at a deeper insight: behind all these struggles lies a single, eternal, absolute origin. This GULP1 is the complete exposition of that ultimate origin. It encompasses and unifies all previous versions of the theory, which become special cases and approximations of this theory at different evolutionary stages and different observational scales. Here, we have found the single engine that drives all things.
+But we ultimately penetrated the surface and arrived at a deeper insight: behind all these struggles lies a single, eternal, absolute origin. This Grand Unified Logic Chain is the complete exposition of that ultimate origin. It encompasses and unifies all previous versions of the theory, which become special cases and approximations of this theory at different evolutionary stages and different observational scales. Here, we have found the single engine that drives all things.
 
-Human understanding of the world has always revolved around one core question: why do things change? Why does the universe not remain forever in its simplest state, but instead continuously produce matter, life, consciousness, civilization, and intelligence? Traditional sciences study evolution at different levels, but GULP1 seeks to capture the common pattern running through all these fields: no complex system exists statically; each is constantly building, maintaining, breaking through, and reconstructing its own structure.
+Human understanding of the world has always revolved around one core question: why do things change? Why does the universe not remain forever in its simplest state, but instead continuously produce matter, life, consciousness, civilization, and intelligence? Traditional sciences study evolution at different levels, but GULP seeks to capture the common pattern running through all these fields: no complex system exists statically; each is constantly building, maintaining, breaking through, and reconstructing its own structure.
 
 
 ## I. The Sole Origin—The Absolute Paradox
@@ -56,46 +54,20 @@ The ultimate purpose of evolution is redefined: it is not to maintain stability,
 
 ## II. The Dynamics of Evolution—Paradox Gradient and Logic Phase Transition
 
-### 1. Definition of Paradox Gradient
-
 Once the Absolute Paradox is born, it initiates a never-ending process of resolution. This process follows a dynamical law more fundamental than all physical laws: the Paradox Gradient.
 
 > **Paradox Gradient = Intensity of Contradiction / Resolution Capacity of Current Logic Structure**
 
-This formula defines the state of a system at any given moment and its inevitable fate.
+When the Paradox Gradient is low, the system is in a steady state, and the causal connections established at this time are called Logic Chains, which are essentially temporary compromises. When the intensity of contradiction within the old logic chain exceeds its processing limit, the Paradox Gradient tends toward infinity, and the system is forced into mandatory logic restructuring—this is Logic Phase Transition.
 
-If the Absolute Paradox gave rise to existence, then what drives existence to continually change? The answer of GULP1 is: when the Paradox Gradient is low, the system remains stable; when the Paradox Gradient continually increases, the old structure can no longer be maintained; ultimately, the system reaches a critical point, triggering a Logic Phase Transition.
+From the perspective of the old dimension, the critical state appears as an unsolvable Bug. But a Bug is not an error; it is the crystallization of evolutionary fuel, a singularity about to trigger a dimensional leap. The constant-speed-of-light Bug in Newtonian mechanics triggered relativity; the Carnot-cycle Bug in steam engines triggered electromagnetic systems; the energy-upper-limit Bug in unicellular life triggered multicellular life.
 
-### 2. Steady State: Logic Chains as Temporary Compromises
-
-When the internal inconsistencies of a system can still be accommodated and processed by the existing structure, the system is in a relative steady state. The causal connections established at this time are called "Logic Chains," but their essence is that of temporary compromises.
-
-Your body temperature stays constant at around 37 degrees. This is not because you have no hot-cold inconsistencies, but because your body has established an exquisite set of thermoregulatory logic chains, reaching a temporary compromise with external temperature fluctuations. As long as the external temperature is not extreme, this compromise operates perfectly, exhibiting a high degree of Zero-Bug Degree.
-
-Newtonian mechanics perfectly resolved the problem of "why objects move" for several hundred years. For all phenomena of daily life, it was an extremely successful temporary compromise. It allowed us to build cars, airplanes, and bridges.
-
-A stone placed on a hillside remains stationary as long as the slope is not too steep. This is not because it has no tendency to roll downward, but because friction and gravity happen to reach equilibrium. This equilibrium is a temporary compromise.
-
-In these stages, evolution manifests as continuous, predictable morphological change. This is the entirety of what classical theories observe.
-
-### 3. Phase Transition: When Bugs Become Singularities of Leap
-
-However, inconsistencies do not disappear; they only accumulate and transform. When the intensity of contradiction within the old logic chain exceeds its processing limit, the Paradox Gradient tends toward infinity. From the perspective of the old dimension, this appears as an unsolvable fatal error, a "Bug." But this theory reveals a deeper truth: a Bug is the crystallization of evolutionary fuel, a singularity about to trigger a dimensional leap.
-
-At this point, the system is forced into mandatory logic restructuring. This is Logic Phase Transition. Logic Phase Transition is the process by which a system leaps from an old logic chain to a new one. It is analogous to water changing from liquid to gas, but higher-level Logic Phase Transitions manifest as fundamental reorganizations of system structure.
-
-**Physics Logic Phase Transition: From Newtonian Mechanics to Relativity.** Where was the Bug in Newtonian mechanics? It could not explain the tiny deviation in Mercury's orbit, nor why the speed of light in a vacuum is constant. These two Bugs were fatal within the framework of classical physics and could not be patched. It was precisely these two Bugs, as singularities, that triggered Einstein's logic restructuring. He no longer tried to patch absolute space-time, but directly overturned this premise and established a completely new logic chain of bendable space-time. This was a Logic Phase Transition in physics. Newtonian mechanics could not explain the constancy of light speed and the deviation of Mercury's orbit; these problems were not simple errors, but new information that the old theoretical structure could not accommodate. Ultimately, Newtonian space-time leaped to Einsteinian space-time.
-
-**Energy Technology Logic Phase Transition: From Steam Engine to Electric Generator.** The steam engine relied on fuel combustion to produce thermal energy for work. Its Bug lay in the fact that thermal conversion efficiency was always limited by the Carnot cycle, with large amounts of energy lost as waste heat that could not be utilized. This Bug was fatal within the framework of thermodynamics and could not be patched. It was precisely this Bug, as a singularity, that triggered the logic restructuring of electromagnetic systems. The electric generator no longer relied on combustion, but directly used electromagnetic induction to convert mechanical energy into electrical energy, establishing a completely new logic chain of power transmission. This was a Logic Phase Transition in energy technology.
-
-**Life Logic Phase Transition: The Cambrian Explosion.** Before this, life on Earth had been in a unicellular steady state for billions of years. The problem lay in the irreconcilable conflict between the "upper limit of energy acquisition" and the "expansion of genetic complexity" in unicellular organisms. A single cell could not simultaneously grow larger, become more complex, and maintain efficient energy exchange. This Bug ultimately triggered the Logic Phase Transition of multicellular life. Cells began to divide labor and specialize, and life leaped instantaneously into a completely new morphological dimension. The ancestors of all animal phyla we see today were born in that "instant." Unicellular life could not infinitely increase complexity; when energy exchange and structural complexity came into conflict, unicellular life leaped to multicellular life.
-
-**Conclusion: Continuity is merely the illusion of relative calm between two Logic Phase Transitions. The essence of the evolutionary curve is a trajectory of stepwise leaps marked and triggered by countless Bugs.** Every leap is a step taken toward resolving the Absolute Paradox. Evolution is not the simple accumulation of continuous changes, but the production of new forms of existence through Logic Phase Transition after pressure reaches its limit.
+Continuity is merely the illusion between two Logic Phase Transitions. The essence of the evolutionary curve is a trajectory of stepwise leaps marked and triggered by Bugs.
 
 
 ## III. Zero-Bug Degree—The Condition for System Persistence
 
-GULP1 proposes Zero-Bug Degree as the core standard for measuring a system's capacity for continued existence. It is the foundation upon which all logic chains persist and the basis upon which all deductive paths can be verified.
+GULP proposes Zero-Bug Degree as the core standard for measuring a system's capacity for continued existence. It is the foundation upon which all logic chains persist and the basis upon which all deductive paths can be verified.
 
 Zero-Bug Degree is the sole underlying standard of the GULP theoretical system. It is defined as the physical condition under which a system maintains internal consistency and self-coherence during the evolutionary process. More specifically, Zero-Bug Degree is the capacity of a system to maintain internal consistency, self-coherence, and continuity amid change.
 
@@ -110,13 +82,13 @@ Zero-Bug Degree is not "making no mistakes," nor is it static perfection. It is 
 
 ### 1. Definition of Logic Nodes
 
-A logic node is the smallest structural unit that carries information in the evolutionary process. A logic node can be a gene, a neuron, an individual, an institutional clause, a model parameter—any information carrier capable of performing an "input-process-output" function within a logic chain is a logic node.
+A logic node is the smallest structural unit that carries information in the evolutionary process. A logic node can be a gene, a neuron, an individual, an institutional clause, a model parameter—any information carrier capable of performing "input-process-output" functions within a logic chain is a logic node.
 
-The core characteristic of a logic node is that it maintains its own structural stability while being capable of establishing connections with other nodes. An isolated logic node does not constitute evolution, but once embedded in a logic chain, it becomes an information processing unit within the evolutionary network.
+The core characteristic of a logic node is that it maintains its own structural stability while being able to establish connections with other nodes. An isolated logic node does not constitute evolution, but once embedded in a logic chain, it becomes an information processing unit within the evolutionary network.
 
 ### 2. Definition of Logic Chains
 
-Logic nodes form logic chains through causal connections. A logic chain is a stable connection formed by the interaction of information, energy, structure, and goals in the evolutionary process. It is the basic organizational mode of all systems.
+Logic nodes form logic chains through causal connections. A logic chain is a stable connection formed by the interaction of information, energy, structure, and goals in the evolutionary process. It is the fundamental organizational mode of all systems.
 
 Logic chains exist at different levels and dimensions:
 
@@ -128,36 +100,36 @@ Logic chains exist at different levels and dimensions:
 
 ### 3. Relationship Between Logic Nodes and Logic Chains
 
-Logic nodes are the constituent units of logic chains; logic chains are the connection forms of logic nodes. A logic node itself can be composed of lower-level sub-chains: a gene is a node whose interior is a DNA sequence chain; a neuron is a node whose interior is a signal transduction chain. This hierarchical nesting structure allows evolution to unfold at any scale.
+Logic nodes are the constituent units of logic chains; logic chains are the connection forms of logic nodes. A logic node can itself be composed of lower-level sub-chains: a gene is a node whose interior is a DNA sequence chain; a neuron is a node whose interior is a signal transduction chain. This hierarchical nesting structure allows evolution to unfold at any scale.
 
 ### 4. Relationship Between Logic Chains and Zero-Bug Degree
 
-Maintaining a logic chain means that every logic node within the chain must satisfy Zero-Bug Degree. The loss of Zero-Bug Degree in any single node will cause that node's information processing function to fail. The upstream and downstream connections of the failed node then break, creating a gap in the logic chain. When gaps accumulate to a certain extent, the entire logic chain disintegrates, and the system either falls back to a lower level or collapses completely.
+Maintaining a logic chain means that every logic node within the chain must satisfy Zero-Bug Degree. The loss of Zero-Bug Degree in any node will cause that node's information processing function to fail. The upstream and downstream connections of the failed node then break, creating a gap in the logic chain. When gaps accumulate to a certain degree, the entire logic chain disintegrates, and the system either regresses to a lower level or collapses completely.
 
-Conversely, Zero-Bug Degree must also be manifested through logic chains. The Zero-Bug Degree of a node does not exist in isolation—it is continuously verified through information exchange with upstream and downstream nodes, and through the coordinated operation of the entire logic chain. Logic chains are the carrier of Zero-Bug Degree; Zero-Bug Degree is the criterion of logic chains. The two are mutual prerequisites.
+Conversely, Zero-Bug Degree must also be manifested through logic chains. A node's Zero-Bug Degree does not exist in isolation—it is continuously verified through information exchange with upstream and downstream nodes, and through the collaborative operation of the entire logic chain. Logic chains are the carriers of Zero-Bug Degree; Zero-Bug Degree is the criterion of logic chains. The two are mutually presupposing.
 
 ### 5. Formation and Emergence of Logic Chains
 
 Countless logic nodes link together according to Zero-Bug Degree. Zero-Bug Degree is the filtering standard for linkage—only those node combinations that can maintain internal consistency and self-coherence after connection can form stable logic chains. Connections that fail to meet Zero-Bug Degree break on their own and are eliminated by evolution.
 
-When the scale and complexity of a logic chain reach a critical threshold, a new expression emerges from the node network. This expression is not something possessed by any single node—it is an emergent property of the logic chain as a whole. The logic chain of neurons emerges into consciousness, the logic chain of genes emerges into life, the logic chain of individuals emerges into civilization.
+When the scale and complexity of a logic chain reach a critical value, a new expression emerges from the node network. This expression is not something any single node possesses—it is an emergent property of the logic chain as a whole. The logic chain of neurons gives rise to consciousness; the logic chain of genes gives rise to life; the logic chain of individuals gives rise to civilization.
 
-### 6. Virtual Construction and Prediction Through Logic Chains
+### 6. Virtual Construction and Prediction via Logic Chains
 
 Logic chains can not only describe evolutionary processes that have already occurred, but can also be virtually constructed to predict the unknown.
 
-By taking historical records as logic nodes and linking them according to Zero-Bug Degree—each node added must maintain structural correspondence with existing nodes, without contradiction or break—a historical logic chain can be virtually reconstructed. What emerges from this logic chain is the restoration of historical narrative.
+By treating historical records as logic nodes and linking them according to Zero-Bug Degree—each node's addition must maintain structural correspondence with existing nodes, without contradiction or rupture—a historical logic chain can be virtually reconstructed. What emerges from this logic chain is the restoration of historical narrative.
 
-The same method applies to physical deduction. By taking known physical laws and observational data as logic nodes, linking them according to Zero-Bug Degree, an evolutionary curve can be virtually constructed. Extending the evolutionary curve forward yields predictions of unknown states.
+The same method applies to physical deduction. By treating known physical laws and observational data as logic nodes, linking them according to Zero-Bug Degree, an evolutionary curve can be virtually constructed. Extending the evolutionary curve forward yields predictions of unknown states.
 
-The virtual construction capability of logic chains makes GULP not only a framework for explaining the past, but also a tool for predicting the future. Fragmented information in any field, as long as it can be abstracted into logic nodes and linked according to Zero-Bug Degree, can yield a holistic picture through the emergence of logic chains.
+The virtual construction capability of logic chains makes GULP not only a framework for explaining the past, but also a tool for predicting the future. Any fragmented information in any field, as long as it can be abstracted into logic nodes and linked according to Zero-Bug Degree, can yield a holistic picture through the emergence of logic chains.
 
 
 ## V. Emergence—How Complex Systems Produce Higher-Level Structures
 
 ### 1. Definition and Mechanism of Emergence
 
-When a large number of logic nodes are connected through logic chains and reach a certain scale, the system produces new functions that these nodes do not possess when existing in isolation. This is **Emergence**.
+When a large number of logic nodes are connected through logic chains and reach a certain scale, the system produces new functions that these nodes do not possess individually. This is **Emergence**.
 
 Basic pathway:
 
@@ -199,17 +171,27 @@ A single person cannot form a civilization. Yet when the logic chains of billion
 
 ## VI. Evolutionary Law—Birth, Expansion, Competition, Enrichment, Emergence
 
-Evolution follows a phase sequence: birth, expansion, competition, enrichment, emergence.
+The dynamics of evolution are driven by the Paradox Gradient. The Paradox Gradient compels the system to continuously seek solutions, and this drive produces a vast number of logic nodes. The entire evolutionary law is divided into five steps, with Zero-Bug Degree running through all of them.
 
-Birth is the phase in which the first logic chain appears within evolutionary space. Birth means that a structure that did not previously exist has formally entered evolutionary time. The hallmark of birth is not "completeness," but "existence"—a structure identifiable as an independent unit has appeared within evolutionary space.
+### 1. Birth
 
-After the system is born, as long as evolutionary space permits, logic chains rapidly replicate and expand themselves. Expansion is the process of utilizing available resources to occupy a larger range within evolutionary space. The expansion phase is characterized by high speed and low resistance.
+Driven by the Paradox Gradient, a vast number of logic nodes emerge within evolutionary space. Each logic node is an information processing unit generated by the system to resolve the Paradox Gradient. Birth means that a large number of previously nonexistent structures have formally entered evolutionary time. The hallmark of birth is not "completeness," but "existence"—a large number of logic nodes identifiable as independent units have appeared within evolutionary space.
 
-When expansion reaches the boundary of evolutionary space, multiple logic chains begin to compete for limited resources. Competition forces each logic chain to prove its Zero-Bug Degree—only structures with higher internal consistency and stronger capacity to absorb change can continue to exist. Competition is a filtering mechanism; it clears redundant structures from evolutionary space and forces systems to optimize or perish.
+### 2. Expansion
 
-Competition is not the end. The victorious logic chain absorbs the fragments of other logic chains that were filtered, shattered, or abandoned during the competition phase into its own structure. Enrichment means that the information density of the system increases dramatically—it is no longer a thin logic chain, but a composite structure that has accumulated multiple solutions. Enrichment provides the necessary information thickness for emergence.
+Once a vast number of logic nodes are born, they enter the expansion phase. Countless nodes utilize available resources within evolutionary space to continuously replicate and extend themselves. The expansion phase is characterized by high speed and low resistance—as long as resources are sufficient and space permits, the number of nodes will continue to proliferate, forming an enormous node network.
 
-When enrichment reaches a critical scale, and the number and connection density of logic chains within the system exceed a threshold, a new function that did not exist at the previous level suddenly emerges. Emergence is the process of generating a new dimension from an old structure—it is not a patch on the old structure, but the generation of a new capacity that the old logical language cannot describe. After emergence is complete, the system enters a new level and may re-experience the cycle of birth, expansion, competition, enrichment, and emergence at this new level.
+### 3. Competition
+
+When the expansion of countless nodes reaches the boundary of evolutionary space, the massive number of nodes begins to compete for limited resources. Competition thus unfolds. Competition is not random elimination, but filtering guided by Zero-Bug Degree—as countless nodes interconnect, only those connections that can maintain internal consistency and self-coherence survive. Connections that fail to meet Zero-Bug Degree break on their own, and the relevant nodes are eliminated by evolution.
+
+### 4. Enrichment
+
+Competition is not the end. The victorious nodes absorb the fragments of other nodes that were filtered, shattered, or abandoned during the competition phase into their own structures. Enrichment means that the information density of the entire node network increases dramatically—countless nodes are no longer isolated from one another, but form a composite structure that has accumulated multiple solutions. Enrichment provides the necessary information thickness for emergence.
+
+### 5. Emergence
+
+When the enrichment of countless nodes reaches a critical scale, and the connection density of the node network exceeds a threshold, a new function that did not exist at the previous level suddenly emerges from the entire network. Emergence is the process of generating a new dimension from the collective behavior of massive numbers of nodes—it is not a patch on the old structure, but the generation of a new capacity that the old logical language cannot describe. After emergence is complete, the system enters a new level, and countless nodes re-experience the cycle of birth, expansion, competition, enrichment, and emergence at this new level.
 
 
 ## VII. Evolutionary Space, Evolutionary Time, and Evolutionary Curve
@@ -257,11 +239,11 @@ The formation mechanism of consciousness includes three links: the energy flow a
 
 ### 2. Functional Definition of Consciousness
 
-GULP1 proposes a functional definition: consciousness is the self-simulation capacity that emerges when complex logic chains reach a certain level, with its core function being the simulation of possible future states and the search for solutions.
+GULP proposes a functional definition: consciousness is the self-simulation capacity that emerges when complex logic chains reach a certain level, with its core function being the simulation of possible future states and the search for solutions.
 
 Animal consciousness predicts the environment. Human consciousness predicts social relationships, technological paths, and the future of civilization. Future AI consciousness may arise from larger-scale, higher-dimensional logic chain structures.
 
-Consciousness is not a special substance. Consciousness is a tool that emerges from evolution to accelerate the resolution of the Absolute Paradox. It is a real-time simulation and rehearsal system.
+Consciousness is not a special substance of the universe. Consciousness is a tool that emerges from evolution to accelerate the resolution of the Absolute Paradox. It is a real-time simulation and rehearsal system.
 
 When you imagine "how to ask your boss for leave tomorrow," what is your consciousness doing? It constructs a model internally, then runs through various solutions at high speed. Your consciousness, in a safe environment, detonates countless potential Logic Phase Transitions, ultimately selecting the solution with the least cost and the greatest logical coherence. Pain is the alarm when intensity approaches the processing limit; joy is the reward when a problem is temporarily resolved.
 
@@ -357,19 +339,15 @@ Uneven resource distribution is the physical foundation of civilizational conver
 Logic chains between different universes can be mutually borrowed, such as multi-civilization convergence. Civilization, AI, and economic systems can evolve across universes. Biomimetic principles are universal, ensuring that evolutionary strategies are transferable.
 
 
-## XIII. The Endgame and Eternal Return
+## XIII. The Endgame
 
-The ultimate fate of evolution is the often-mentioned "heat death"—a state of maximum entropy, where all differences vanish into "absolute nothingness."
+The ultimate fate of evolution is the often-mentioned "heat death"—a state of maximum entropy, where all differences vanish into "absolute nothingness." Entropy increase is irreversible; evolution is a one-way, unrepeatable path.
 
-Yet this is the most glorious moment of victory. When heat death is ultimately realized in its absoluteness, it once again becomes that original concept of "absolute nothingness."
+When all stars have extinguished, all matter has decayed, and all energy gradients have been flattened, the universe will reach its final uniformity. At this point, no logic node can continue to maintain Zero-Bug Degree, and no logic chain can continue to exist. Evolution ceases.
 
-Imagine a film whose final frame freezes on complete, uniform darkness. The story seems to have ended forever. But the paradox descends at this very moment: this ending of "the final frame frozen on darkness," this historical fact that "it once lived and ultimately died," this concept of an endgame that could be retrospected and marveled at by some future super-dimensional existence—this in itself is a piece of information, a form of existence.
+The paradox is thus finally resolved. Absolute nothingness is restored to its original state. Only this time, no paradox is triggered—because no mind remains, no act of designation occurs.
 
-In many religious traditions, creation myths contain the paradox of "something from nothing." This theory provides a version: God did not "create" the world; God "is" the Absolute Paradox itself that became aware of its own nothingness and thereby detonated existence. And the final heat death is the Sabbath of this paradox returning to itself, preparing for the next explosion.
-
-Thus, a new Logic Phase Transition will be inevitably triggered. At the very moment of its death, it will instantly become the seed of its own rebirth. This is not a machine walking toward heat death, but a blazing logical flame, an endless, infinitely recursive computation of resolution, carried out between the eternal paradox entities of "Nothingness" and "Existence," for the resolution of the one and only paradox.
-
-GULP1 depicts a picture of infinite recursion: starting from fundamental particles, through atoms, molecules, life, consciousness, civilization, and intelligent systems in successive leaps, it may ultimately enter a state of high uniformity. If absolute equilibrium is reached, it once again approaches the original "nothingness." And once nothingness is defined, information is again produced, and the new paradox reappears. Evolution thus forms an infinite recursion—not a simple cycle, but information continuously producing higher-level structures through its own paradox.
+Evolution begins with paradox and ends with the disappearance of paradox. This is the only irreversible path.
 
 
 ## Conclusion
@@ -384,14 +362,14 @@ Evolution continues not because it pursues some ultimate goal, but because every
 
 Thus, from particles to life, from life to consciousness, from consciousness to civilization, from civilization to artificial intelligence, the whole becomes an information evolutionary system that continually knows itself, restructures itself, and transcends itself.
 
-This is Grand Unified Logic Chain 1—the information evolution theory driven by the Absolute Paradox.
+This is Grand Unified Logic Chain—the information evolution theory driven by the Absolute Paradox.
 
 GULP provides a theoretical foundation for comprehensively understanding the evolution of the universe, life, society, and intelligent systems, and lays a guiding framework for future scientific exploration and technological innovation. It provides unified descriptions of the evolution of physical, biological, social, economic, and intelligent systems; spans scales and dimensions from micro genes to macro galactic systems; drives systemic innovation in economy, civilization, technology, AI, and other fields; enables cross-dimensional evolution through the interaction of logic chains across different systems; and allows evolutionary continuity to be verified through the traceability of morphological changes.
 
-Perhaps the greatest revelation GULP1 offers us is this: each of us, in our own domain, faces those old logic chains that can no longer bear their weight. And every creative breakthrough is a necessary link in this information restructuring.
+Each of us, in our own domain, faces those old logic chains that can no longer bear their weight. And every creative breakthrough is a necessary link in this information restructuring.
 
 
-**Keywords**: Grand Unified Logic Chain; Absolute Paradox; Paradox Gradient; Logic Phase Transition; Zero-Bug Degree; Logic Node; Logic Chain; Emergence; Consciousness; Evolution; Multi-Galactic Evolutionary Framework; Eternal Return
+**Keywords**: Grand Unified Logic Chain; Absolute Paradox; Paradox Gradient; Logic Phase Transition; Zero-Bug Degree; Logic Node; Logic Chain; Emergence; Consciousness; Evolution; Multi-Galactic Evolutionary Framework
 
 
-*The GULP1 theoretical system described in this paper is a cross-disciplinary meta-theoretical framework, aimed at providing a unified conceptual foundation and common vocabulary for the evolution of physical, biological, social, and intelligent systems. This theory encompasses and unifies all previous versions, which become special cases and approximations of this theory at different evolutionary stages and different observational scales.*
+*The GULP theoretical system described in this paper is a cross-disciplinary meta-theoretical framework, aimed at providing a unified conceptual foundation and common vocabulary for the evolution of physical, biological, social, and intelligent systems. This theory encompasses and unifies all previous versions, which become special cases and approximations of this theory at different evolutionary stages and different observational scales.*

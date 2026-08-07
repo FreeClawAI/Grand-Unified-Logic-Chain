@@ -1,4 +1,4 @@
-# Grand Unified Logic Chain: Evolutionary Theory (GULP)
+# Grand Unified Logic Chain Philosophy: Evolutionary Theory (GULP)
 
 **—Logic Chains, Evolution, and the Dynamics of Emergence**
 
